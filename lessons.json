@@ -1,1 +1,1165 @@
-[]
+[
+    {
+        "title": "Tầm quan trọng của ước mơ trong cuộc sống",
+        "text": "Mỗi người chúng ta đều có những ước mơ và mục tiêu riêng trong cuộc đời. Có người mong muốn có một công việc ổn định, có người lại thích đi du lịch khắp nơi để khám phá thế giới. Nếu sống mà không có ước mơ, cuộc sống sẽ trở nên rất nhàm chán và vô vị. Khi đó, chúng ta sẽ không có động lực để phấn đấu và làm việc mỗi ngày. Ước mơ chính là nguồn cảm hứng giúp con người cảm thấy yêu đời và hạnh phúc hơn.\n\nĐể đạt được ước mơ, chúng ta cần phải học hỏi kiến thức và rèn luyện kỹ năng mỗi ngày. Bên cạnh đó, sự kiên trì và nhẫn nại là những yếu tố vô cùng quan trọng. Trên con đường đi đến thành công, chắc chắn bạn sẽ gặp phải nhiều khó khăn và thất bại. Tuy nhiên, đừng bao giờ từ bỏ vì chính những vấp ngã đó sẽ giúp bạn trở nên mạnh mẽ và trưởng thành hơn. Nếu bạn có ý chí quyết tâm, bạn sẽ vượt qua mọi trở ngại để biến ước mơ của mình thành sự thật.\n\nMỗi người hãy tự quyết định tương lai của chính mình. Thay vì sống lay lắt qua ngày, bạn hãy đặt ra mục tiêu và hành động ngay từ bây giờ. Đừng để thời gian trôi qua một cách lãng phí. Khi bạn sống có mục đích, cuộc sống sẽ trở nên ý nghĩa và thú vị hơn rất nhiều. Những ước mơ sẽ luôn ở trong tâm hồn và giúp bạn vững tin hơn trong mọi hoàn cảnh.\n\nĐối với các bạn học sinh, khi còn đang ngồi trên ghế nhà trường, đây là thời điểm tốt nhất để chuẩn bị hành trang cho tương lai. Các bạn nên tích cực học tập, trau dồi kiến thức và tu dưỡng đạo đức thật tốt. Việc học không chỉ mang lại cho bạn sự hiểu biết mà còn là nền tảng vững chắc để bạn chinh phục những đỉnh cao mới. Khi bạn nỗ lực hết mình, ước mơ sẽ không còn là điều xa vời. Hãy nhớ rằng, cuộc sống sẽ tràn ngập niềm vui nếu bạn dám ước mơ và dám thực hiện nó. Hãy bắt đầu ngay hôm nay để viết nên một trang mới tươi sáng cho cuộc đời mình, bởi vì mỗi người chỉ có một cuộc đời để sống và cống hiến.",
+        "dictionary": {
+            "người": "人",
+            "ước mơ": "梦想",
+            "mục tiêu": "目标",
+            "cuộc đời": "人生",
+            "công việc": "工作",
+            "ổn định": "稳定",
+            "du lịch": "旅游",
+            "thế giới": "世界",
+            "khám phá": "探索",
+            "sống": "生活",
+            "cuộc sống": "生活",
+            "nhàm chán": "无聊",
+            "vô vị": "乏味",
+            "động lực": "动力",
+            "phấn đấu": "奋斗",
+            "làm việc": "工作",
+            "ngày": "天",
+            "nguồn": "源泉",
+            "cảm hứng": "灵感",
+            "con người": "人类",
+            "yêu đời": "热爱生活",
+            "hạnh phúc": "幸福",
+            "đạt": "达到",
+            "học hỏi": "学习",
+            "kiến thức": "知识",
+            "rèn luyện": "锻炼",
+            "kỹ năng": "技能",
+            "kiên trì": "坚持",
+            "nhẫn nại": "耐心",
+            "yếu tố": "因素",
+            "quan trọng": "重要",
+            "con đường": "道路",
+            "thành công": "成功",
+            "khó khăn": "困难",
+            "thất bại": "失败",
+            "từ bỏ": "放弃",
+            "vấp ngã": "跌倒",
+            "mạnh mẽ": "强大",
+            "trưởng thành": "成熟",
+            "ý chí": "意志",
+            "quyết tâm": "决心",
+            "vượt qua": "克服",
+            "trở ngại": "障碍",
+            "biến": "变成",
+            "sự thật": "现实",
+            "quyết định": "决定",
+            "tương lai": "未来",
+            "lay lắt": "苟且",
+            "hành động": "行动",
+            "thời gian": "时间",
+            "lãng phí": "浪费",
+            "mục đích": "目的",
+            "ý nghĩa": "意义",
+            "thú vị": "有趣",
+            "tâm hồn": "灵魂",
+            "vững tin": "坚定信心",
+            "hoàn cảnh": "境况",
+            "học sinh": "学生",
+            "ghế nhà trường": "校园",
+            "thời điểm": "时刻",
+            "tốt": "好",
+            "chuẩn bị": "准备",
+            "hành trang": "行囊",
+            "tích cực": "积极",
+            "học tập": "学习",
+            "trau dồi": "磨练",
+            "tu dưỡng": "修养",
+            "đạo đức": "道德",
+            "hiểu biết": "理解",
+            "nền tảng": "基础",
+            "vững chắc": "稳固",
+            "chinh phục": "征服",
+            "đỉnh cao": "巅峰",
+            "nỗ lực": "努力",
+            "xa vời": "遥远",
+            "tràn ngập": "充满",
+            "niềm vui": "快乐",
+            "dám": "敢",
+            "thực hiện": "实现",
+            "bắt đầu": "开始",
+            "tươi sáng": "明亮",
+            "cống hiến": "奉献"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Ước mơ chính là nguồn cảm hứng giúp con người cảm thấy yêu đời hơn.",
+                    "Để đạt được ước mơ, chúng ta cần phải học hỏi kiến thức và rèn luyện kỹ năng.",
+                    "Nếu bạn có ý chí quyết tâm, bạn sẽ vượt qua mọi trở ngại để biến ước mơ thành sự thật.",
+                    "Sự kiên trì và nhẫn nại là những yếu tố vô cùng quan trọng giúp bạn thành công mà không cần nỗ lực."
+                ],
+                "correct": "Sự kiên trì và nhẫn nại là những yếu tố vô cùng quan trọng giúp bạn thành công mà không cần nỗ lực."
+            },
+            {
+                "question": "Theo bài đọc, điều gì sẽ xảy ra nếu con người sống mà không có ước mơ?",
+                "options": [
+                    "Cuộc sống sẽ trở nên rất nhàm chán và vô vị.",
+                    "Con người sẽ có nhiều thời gian để đi du lịch khắp nơi.",
+                    "Cuộc sống sẽ trở nên ý nghĩa và thú vị hơn rất nhiều.",
+                    "Con người sẽ trở nên mạnh mẽ và trưởng thành hơn."
+                ],
+                "correct": "Cuộc sống sẽ trở nên rất nhàm chán và vô vị."
+            },
+            {
+                "question": "Theo văn bản, yếu tố nào giúp con người trở nên mạnh mẽ và trưởng thành hơn sau những vấp ngã?",
+                "options": [
+                    "Việc học tập kiến thức trên ghế nhà trường.",
+                    "Chính những khó khăn và thất bại trên con đường đi đến thành công.",
+                    "Sự quyết định tương lai của chính mình.",
+                    "Việc đi du lịch khắp nơi để khám phá thế giới."
+                ],
+                "correct": "Chính những khó khăn và thất bại trên con đường đi đến thành công."
+            },
+            {
+                "question": "Theo tác giả, thời điểm nào là tốt nhất để các bạn học sinh chuẩn bị hành trang cho tương lai?",
+                "options": [
+                    "Khi đã đạt được những đỉnh cao mới.",
+                    "Khi đã trưởng thành và tự quyết định được cuộc đời.",
+                    "Khi còn đang ngồi trên ghế nhà trường.",
+                    "Khi đã vượt qua mọi trở ngại và thất bại."
+                ],
+                "correct": "Khi còn đang ngồi trên ghế nhà trường."
+            },
+            {
+                "question": "Theo văn bản, việc học tập mang lại lợi ích gì cho học sinh?",
+                "options": [
+                    "Giúp các bạn có thêm thời gian để sống lay lắt qua ngày.",
+                    "Giúp các bạn không bao giờ gặp phải khó khăn trong cuộc sống.",
+                    "Mang lại sự hiểu biết và là nền tảng vững chắc để chinh phục những đỉnh cao mới.",
+                    "Giúp các bạn không cần phải rèn luyện kỹ năng hay tu dưỡng đạo đức."
+                ],
+                "correct": "Mang lại sự hiểu biết và là nền tảng vững chắc để chinh phục những đỉnh cao mới."
+            },
+            {
+                "question": "Theo bài đọc, trạng thái của một người khi sống có mục đích là gì?",
+                "options": [
+                    "Cảm thấy cuộc sống trở nên ý nghĩa và thú vị hơn.",
+                    "Cảm thấy cuộc sống trở nên nhàm chán và vô vị.",
+                    "Cảm thấy thời gian trôi qua một cách lãng phí.",
+                    "Cảm thấy ước mơ là điều xa vời và khó thực hiện."
+                ],
+                "correct": "Cảm thấy cuộc sống trở nên ý nghĩa và thú vị hơn."
+            },
+            {
+                "question": "Theo văn bản, thái độ cần có khi gặp khó khăn và thất bại là gì?",
+                "options": [
+                    "Nên từ bỏ ước mơ để tránh bị vấp ngã.",
+                    "Đừng bao giờ từ bỏ vì vấp ngã giúp bạn trưởng thành hơn.",
+                    "Nên sống lay lắt qua ngày để chờ đợi cơ hội mới.",
+                    "Nên dừng lại để không phải đối mặt với trở ngại."
+                ],
+                "correct": "Đừng bao giờ từ bỏ vì vấp ngã giúp bạn trưởng thành hơn."
+            },
+            {
+                "question": "Trong đoạn thứ hai, từ “nó” trong câu “Hãy nhớ rằng, cuộc sống sẽ tràn ngập niềm vui nếu bạn dám ước mơ và dám thực hiện nó” quy chiếu đến đối tượng nào?",
+                "options": [
+                    "Cuộc sống",
+                    "Niềm vui",
+                    "Ước mơ",
+                    "Trang mới"
+                ],
+                "correct": "Ước mơ"
+            },
+            {
+                "question": "Từ “hành trang” trong đoạn cuối có thể được hiểu là gì?",
+                "options": [
+                    "Những chiếc cặp sách mà học sinh mang đến trường.",
+                    "Những kiến thức, kỹ năng và đạo đức cần chuẩn bị cho tương lai.",
+                    "Những chuyến du lịch khám phá thế giới.",
+                    "Những khó khăn và thất bại mà con người phải trải qua."
+                ],
+                "correct": "Những kiến thức, kỹ năng và đạo đức cần chuẩn bị cho tương lai."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Mỗi người chúng ta đều có những ước mơ và mục tiêu riêng trong cuộc đời.",
+                    "Thay vì sống lay lắt qua ngày, bạn hãy đặt ra mục tiêu và hành động ngay từ bây giờ.",
+                    "Việc học không chỉ mang lại cho bạn sự hiểu biết mà còn là nền tảng vững chắc.",
+                    "Mỗi người chỉ có một cuộc đời để sống và cống hiến cho nên là đừng sống lãng phí."
+                ],
+                "correct": "Mỗi người chỉ có một cuộc đời để sống và cống hiến cho nên là đừng sống lãng phí."
+            },
+            {
+                "question": "Từ “vững tin” trong văn bản có thể được thay thế bằng từ nào dưới đây?",
+                "options": [
+                    "Lo âu",
+                    "Tin tưởng",
+                    "Do dự",
+                    "Bất an"
+                ],
+                "correct": "Tin tưởng"
+            },
+            {
+                "question": "Theo bài đọc, hành động nào được khuyến khích để viết nên một trang mới tươi sáng cho cuộc đời?",
+                "options": [
+                    "Chờ đợi thời gian trôi qua một cách tự nhiên.",
+                    "Bắt đầu thực hiện ước mơ ngay từ hôm nay.",
+                    "Sống lay lắt qua ngày để tránh thất bại.",
+                    "Từ bỏ ước mơ nếu gặp quá nhiều trở ngại."
+                ],
+                "correct": "Bắt đầu thực hiện ước mơ ngay từ hôm nay."
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
+    },
+    {
+        "title": "Thói quen đọc sách mỗi ngày",
+        "text": "Tôi có thói quen dành khoảng ba mươi phút mỗi ngày cho việc đọc sách. Dù bận rộn với công việc hay trong những ngày lễ Tết, tôi vẫn cố gắng giữ thói quen tốt này. Đối với tôi, đọc sách không chỉ để giải trí mà còn là cách để học hỏi và rèn luyện kỹ năng ngôn ngữ. Tôi rất yêu thích tiếng Anh, vì vậy tôi thường chọn đọc các cuốn sách bằng tiếng Anh để nâng cao trình độ.\n\nViệc chọn sách rất quan trọng. Tôi thường chọn những quyển sách phù hợp với sở thích và trình độ của mình. Khi bắt đầu, tôi đọc chậm rãi, suy ngẫm kỹ từng câu chữ. Nếu gặp những cuốn sách khó, tôi sẽ đọc đi đọc lại nhiều lần để hiểu rõ thông điệp mà tác giả muốn truyền tải. Trong quá trình đọc, tôi áp dụng phương pháp ghi nhớ từ vựng và mẫu câu hay vào một cuốn sổ tay nhỏ. Nhờ đó, tôi có thể sử dụng những câu văn này khi viết bài hoặc trò chuyện với người khác. Việc đọc nhiều giúp tôi hiểu rõ hơn về cách dùng từ và tư duy của người bản ngữ, từ đó kỹ năng viết và nói của tôi tiến bộ rõ rệt mỗi ngày.\n\nTrong cuộc sống hiện đại, mọi người thường sử dụng điện thoại thông minh hoặc máy tính để đọc sách trực tuyến. Tuy nhiên, tôi vẫn thích cảm giác cầm trên tay một cuốn sách in truyền thống. Khi đi du lịch hay đi công tác, tôi luôn mang theo một cuốn sách trong hành lý. Mỗi khi rảnh rỗi, tôi lại lật từng trang sách, đắm mình vào không gian yên tĩnh để đọc và suy ngẫm về cuộc sống. Đối với tôi, sách in giống như một người bạn thân thiết giúp tâm hồn trở nên nhẹ nhàng hơn sau những giờ làm việc căng thẳng.\n\nTôi tin rằng trong thời đại công nghệ số bận rộn như hiện nay, mỗi người đều cần những khoảng lặng để cân bằng cuộc sống. Dành thời gian đọc sách chính là cách tuyệt vời để làm điều đó. Dù ba mươi phút mỗi ngày có thể không nhiều, nhưng nó giúp tôi tích lũy thêm kiến thức quý giá từ nhân loại. Mỗi cuốn sách đều mang lại cho tôi những bài học hay và niềm vui riêng. Tôi sẽ luôn duy trì thói quen đọc sách này để cuộc sống thêm ý nghĩa và phong phú hơn.",
+        "dictionary": {
+            "thói quen": "习惯",
+            "phút": "分钟",
+            "ngày": "天",
+            "việc": "事情",
+            "đọc sách": "阅读",
+            "công việc": "工作",
+            "lễ": "节日",
+            "Tết": "春节",
+            "giải trí": "娱乐",
+            "học hỏi": "学习",
+            "rèn luyện": "锻炼",
+            "kỹ năng": "技能",
+            "ngôn ngữ": "语言",
+            "tiếng Anh": "英语",
+            "trình độ": "水平",
+            "sách": "书",
+            "sở thích": "爱好",
+            "bắt đầu": "开始",
+            "chậm rãi": "缓慢",
+            "suy ngẫm": "思考",
+            "câu chữ": "字句",
+            "thông điệp": "信息",
+            "tác giả": "作者",
+            "truyền tải": "传达",
+            "quá trình": "过程",
+            "áp dụng": "应用",
+            "phương pháp": "方法",
+            "ghi nhớ": "记忆",
+            "từ vựng": "词汇",
+            "mẫu câu": "句型",
+            "sổ tay": "笔记本",
+            "câu văn": "句子",
+            "bài": "文章",
+            "trò chuyện": "交谈",
+            "người": "人",
+            "tư duy": "思维",
+            "bản ngữ": "母语",
+            "tiến bộ": "进步",
+            "rõ rệt": "明显",
+            "cuộc sống": "生活",
+            "hiện đại": "现代",
+            "điện thoại thông minh": "智能手机",
+            "máy tính": "电脑",
+            "trực tuyến": "在线",
+            "cảm giác": "感觉",
+            "truyền thống": "传统",
+            "du lịch": "旅游",
+            "công tác": "出差",
+            "hành lý": "行李",
+            "trang": "页",
+            "không gian": "空间",
+            "yên tĩnh": "安静",
+            "bạn": "朋友",
+            "thân thiết": "亲密",
+            "tâm hồn": "心灵",
+            "nhẹ nhàng": "轻松",
+            "căng thẳng": "紧张",
+            "thời đại": "时代",
+            "công nghệ số": "数字技术",
+            "khoảng lặng": "静谧时光",
+            "cân bằng": "平衡",
+            "tuyệt vời": "绝佳",
+            "kiến thức": "知识",
+            "quý giá": "宝贵",
+            "nhân loại": "人类",
+            "bài học": "教训",
+            "niềm vui": "快乐",
+            "ý nghĩa": "意义",
+            "phong phú": "丰富",
+            "bận rộn": "忙碌",
+            "tốt": "好",
+            "yêu thích": "喜爱",
+            "chọn": "选择",
+            "nâng cao": "提高",
+            "quan trọng": "重要",
+            "phù hợp": "适合",
+            "khó": "难",
+            "hiểu": "理解",
+            "rõ": "清楚",
+            "sử dụng": "使用",
+            "viết": "写",
+            "nói": "说",
+            "thích": "喜欢",
+            "cầm": "拿",
+            "in": "印刷",
+            "mang": "带",
+            "rảnh rỗi": "空闲",
+            "lật": "翻",
+            "đắm mình": "沉浸",
+            "giống": "像",
+            "tin": "相信",
+            "cần": "需要",
+            "dành": "花费",
+            "tích lũy": "积累",
+            "mang lại": "带来",
+            "duy trì": "保持"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau, câu nào là câu sai về ngữ pháp?",
+                "options": [
+                    "Tôi có thói quen dành khoảng ba mươi phút mỗi ngày cho việc đọc sách.",
+                    "Đối với tôi, đọc sách không chỉ để giải trí mà còn là cách để học hỏi.",
+                    "Nhờ đó, tôi có thể sử dụng những câu văn này khi viết bài hoặc trò chuyện với người khác.",
+                    "Việc đọc sách giúp tôi tiến bộ, vì thế tôi đọc sách mỗi ngày để không."
+                ],
+                "correct": "Việc đọc sách giúp tôi tiến bộ, vì thế tôi đọc sách mỗi ngày để không."
+            },
+            {
+                "question": "Tác giả dành bao nhiêu thời gian mỗi ngày cho việc đọc sách?",
+                "options": [
+                    "Khoảng một giờ mỗi ngày",
+                    "Khoảng ba mươi phút mỗi ngày",
+                    "Hai mươi phút mỗi ngày",
+                    "Toàn bộ thời gian rảnh rỗi"
+                ],
+                "correct": "Khoảng ba mươi phút mỗi ngày"
+            },
+            {
+                "question": "Tác giả thường chọn loại sách nào để nâng cao trình độ?",
+                "options": [
+                    "Sách điện tử trực tuyến",
+                    "Sách bằng tiếng Anh",
+                    "Sách về công nghệ số",
+                    "Sách về kỹ năng viết"
+                ],
+                "correct": "Sách bằng tiếng Anh"
+            },
+            {
+                "question": "Khi gặp những cuốn sách khó, tác giả thường làm gì?",
+                "options": [
+                    "Đọc đi đọc lại nhiều lần để hiểu rõ thông điệp",
+                    "Ghi chép từ vựng vào máy tính",
+                    "Bỏ qua để đọc cuốn sách khác dễ hơn",
+                    "Tìm kiếm bản dịch tiếng Việt để đọc"
+                ],
+                "correct": "Đọc đi đọc lại nhiều lần để hiểu rõ thông điệp"
+            },
+            {
+                "question": "Tác giả ghi chép từ vựng và mẫu câu hay vào đâu?",
+                "options": [
+                    "Vào điện thoại thông minh",
+                    "Vào máy tính cá nhân",
+                    "Vào một cuốn sổ tay nhỏ",
+                    "Vào lề của cuốn sách in"
+                ],
+                "correct": "Vào một cuốn sổ tay nhỏ"
+            },
+            {
+                "question": "Theo bài đọc, tác giả thích đọc loại sách nào nhất?",
+                "options": [
+                    "Sách in truyền thống",
+                    "Sách điện tử trên máy tính",
+                    "Sách trực tuyến trên điện thoại",
+                    "Sách nói (audiobook)"
+                ],
+                "correct": "Sách in truyền thống"
+            },
+            {
+                "question": "Từ “nó” trong câu “Dù ba mươi phút mỗi ngày có thể không nhiều, nhưng nó giúp tôi tích lũy thêm kiến thức quý giá từ nhân loại” thay thế cho cụm từ nào?",
+                "options": [
+                    "Cuộc sống hiện đại",
+                    "Thời đại công nghệ số",
+                    "Việc dành ba mươi phút đọc sách mỗi ngày",
+                    "Cuốn sổ tay nhỏ"
+                ],
+                "correct": "Việc dành ba mươi phút đọc sách mỗi ngày"
+            },
+            {
+                "question": "Trong bài đọc, cụm từ “người bạn thân thiết” được dùng để chỉ đối tượng nào?",
+                "options": [
+                    "Tác giả",
+                    "Sách in",
+                    "Người bản ngữ",
+                    "Cuốn sổ tay"
+                ],
+                "correct": "Sách in"
+            },
+            {
+                "question": "Tác giả thường mang theo sách khi nào?",
+                "options": [
+                    "Khi đi du lịch hay đi công tác",
+                    "Khi đi làm việc tại công ty",
+                    "Khi tham gia các buổi trò chuyện",
+                    "Khi sử dụng máy tính"
+                ],
+                "correct": "Khi đi du lịch hay đi công tác"
+            },
+            {
+                "question": "Việc đọc sách giúp kỹ năng nào của tác giả tiến bộ rõ rệt?",
+                "options": [
+                    "Kỹ năng sử dụng máy tính",
+                    "Kỹ năng viết và nói",
+                    "Kỹ năng ghi nhớ hình ảnh",
+                    "Kỹ năng làm việc căng thẳng"
+                ],
+                "correct": "Kỹ năng viết và nói"
+            },
+            {
+                "question": "Từ “đắm mình” trong bài đọc có thể được hiểu là gì?",
+                "options": [
+                    "Ngâm mình trong nước",
+                    "Tập trung hoàn toàn vào việc đọc",
+                    "Lật từng trang sách một cách nhanh chóng",
+                    "Sử dụng điện thoại để đọc sách"
+                ],
+                "correct": "Tập trung hoàn toàn vào việc đọc"
+            },
+            {
+                "question": "Theo tác giả, mục đích của việc đọc sách là gì?",
+                "options": [
+                    "Chỉ để giải trí sau giờ làm việc",
+                    "Để học hỏi, rèn luyện kỹ năng và cân bằng cuộc sống",
+                    "Để hoàn thành công việc được giao",
+                    "Để thay thế cho việc sử dụng công nghệ số"
+                ],
+                "correct": "Để học hỏi, rèn luyện kỹ năng và cân bằng cuộc sống"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
+    },
+    {
+        "title": "Chuyến đi nghỉ mát tại bãi biển Sầm Sơn",
+        "text": "Năm học đã kết thúc, mùa hè đã đến với những tiếng ve kêu rộn ràng. Để thưởng cho những ngày học tập chăm chỉ, trường em đã tổ chức một chuyến đi nghỉ mát tại bãi biển Sầm Sơn vào sáng thứ năm tuần qua. Tất cả học sinh đều cảm thấy rất vui vẻ và háo hức khi được lên xe đi chơi cùng bạn bè.\n\nSau mấy tiếng đồng hồ ngồi trên xe, chúng em đã đến nơi. Biển Sầm Sơn hiện ra thật rộng lớn và xinh đẹp dưới ánh nắng mặt trời. Gió biển thổi mát rượi, làm tung mái tóc của chúng em. Bãi cát trắng trải dài, phía xa là những ngôi nhà cao tầng nằm dọc theo bờ biển. Chúng em ở trong một khách sạn ngay gần biển nên có thể ngắm cảnh suốt cả ngày lẫn đêm.\n\nBuổi sáng, bãi biển rất đông người và ồn ào. Nước biển xanh trong như một tấm gương khổng lồ. Chúng em cầm theo những chiếc phao bơi rồi cùng nhau ùa xuống nước. Được nô đùa cùng bạn bè trong làn nước mát, em cảm thấy vô cùng hạnh phúc. Ngoài xa, những con thuyền đánh cá trông giống như những cánh bướm nhỏ đang trôi trên mặt nước. Đến giữa trưa, nắng bắt đầu chói chang, mọi người đều về khách sạn nghỉ ngơi để tránh nắng.\n\nKhi chiều về, nắng đã dịu đi, chúng em lại tiếp tục ra biển chơi. Lúc này, gió thổi mạnh hơn và những con sóng lớn vỗ vào bờ. Chúng em cùng nhau nhảy lên để đón sóng, tiếng cười nói vang dậy khắp nơi. Mọi người chơi đùa rất vui vẻ mà không thấy mệt mỏi. Khi hoàng hôn buông xuống, mặt biển đổi sang màu tím sẫm, trông rất huyền bí và đẹp mắt. Nhờ có ánh đèn từ các dãy phố, bãi biển đêm trở nên lung linh và thú vị. Chúng em nán lại thêm một chút để ngắm nhìn vẻ đẹp của biển về đêm và lắng nghe tiếng sóng vỗ rì rào.\n\nĐó là một ngày đầu tiên thật đáng nhớ tại Sầm Sơn. Ai cũng cảm thấy sảng khoái và thư giãn sau những ngày học tập căng thẳng. Sáng mai, chúng em dự định sẽ dậy thật sớm để cùng nhau đón ánh mặt trời nhô lên từ phía chân trời xa. Chuyến đi này chắc chắn sẽ là một kỷ niệm đẹp trong kỳ nghỉ hè của chúng em.",
+        "dictionary": {
+            "năm học": "学年",
+            "kết thúc": "结束",
+            "mùa hè": "夏天",
+            "tiếng ve": "蝉鸣",
+            "kêu": "叫",
+            "rộn ràng": "热闹",
+            "thưởng": "奖励",
+            "ngày": "天",
+            "học tập": "学习",
+            "chăm chỉ": "勤奋",
+            "trường": "学校",
+            "tổ chức": "组织",
+            "chuyến đi": "旅行",
+            "nghỉ mát": "度假",
+            "bãi biển": "海滩",
+            "Sầm Sơn": "岑山",
+            "sáng": "早晨",
+            "thứ năm": "星期四",
+            "tuần": "周",
+            "học sinh": "学生",
+            "cảm thấy": "感到",
+            "vui vẻ": "快乐",
+            "háo hức": "兴奋",
+            "xe": "车",
+            "đi chơi": "游玩",
+            "bạn bè": "朋友",
+            "đồng hồ": "小时",
+            "ngồi": "坐",
+            "nơi": "地方",
+            "biển": "海",
+            "hiện ra": "呈现",
+            "rộng lớn": "广阔",
+            "xinh đẹp": "美丽",
+            "ánh nắng": "阳光",
+            "mặt trời": "太阳",
+            "gió": "风",
+            "thổi": "吹",
+            "mát rượi": "凉爽",
+            "tung": "飘动",
+            "mái tóc": "头发",
+            "bãi cát": "沙滩",
+            "trắng": "白",
+            "trải dài": "延伸",
+            "phía xa": "远处",
+            "ngôi nhà": "房子",
+            "cao tầng": "高层",
+            "dọc": "沿着",
+            "bờ biển": "海岸",
+            "khách sạn": "酒店",
+            "ngắm": "观赏",
+            "cảnh": "景色",
+            "đêm": "夜晚",
+            "đông": "拥挤",
+            "người": "人",
+            "ồn ào": "嘈杂",
+            "nước": "水",
+            "xanh": "蓝",
+            "trong": "清澈",
+            "tấm gương": "镜子",
+            "khổng lồ": "巨大",
+            "cầm": "拿",
+            "phao bơi": "游泳圈",
+            "ùa": "冲",
+            "nô đùa": "嬉戏",
+            "hạnh phúc": "幸福",
+            "con thuyền": "船",
+            "đánh cá": "捕鱼",
+            "giống": "像",
+            "cánh bướm": "蝴蝶翅膀",
+            "nhỏ": "小",
+            "trôi": "漂浮",
+            "mặt nước": "水面",
+            "trưa": "中午",
+            "nắng": "阳光",
+            "chói chang": "刺眼",
+            "nghỉ ngơi": "休息",
+            "tránh": "躲避",
+            "chiều": "下午",
+            "dịu": "柔和",
+            "tiếp tục": "继续",
+            "ra": "去",
+            "mạnh": "强",
+            "sóng": "浪",
+            "lớn": "大",
+            "vỗ": "拍打",
+            "bờ": "岸",
+            "nhảy": "跳",
+            "đón": "迎接",
+            "tiếng cười": "笑声",
+            "nói": "说话",
+            "vang dậy": "回荡",
+            "mệt mỏi": "疲惫",
+            "hoàng hôn": "日落",
+            "buông xuống": "降临",
+            "đổi": "改变",
+            "màu": "颜色",
+            "tím": "紫",
+            "sẫm": "深",
+            "huyền bí": "神秘",
+            "đẹp mắt": "好看",
+            "ánh đèn": "灯光",
+            "dãy phố": "街道",
+            "lung linh": "闪烁",
+            "thú vị": "有趣",
+            "nán lại": "停留",
+            "vẻ đẹp": "美",
+            "lắng nghe": "倾听",
+            "rì rào": "沙沙声",
+            "đầu tiên": "第一",
+            "đáng nhớ": "难忘",
+            "sảng khoái": "清爽",
+            "thư giãn": "放松",
+            "căng thẳng": "紧张",
+            "mai": "明天",
+            "dự định": "打算",
+            "dậy": "起床",
+            "sớm": "早",
+            "nhô lên": "升起",
+            "chân trời": "地平线",
+            "kỷ niệm": "纪念",
+            "kỳ nghỉ": "假期"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Trường em đã tổ chức một chuyến đi nghỉ mát tại bãi biển Sầm Sơn.",
+                    "Tất cả học sinh đều cảm thấy rất vui vẻ và háo hức khi được lên xe.",
+                    "Biển Sầm Sơn hiện ra thật rộng lớn và xinh đẹp dưới ánh nắng mặt trời.",
+                    "Vì mùa hè đã đến với những tiếng ve kêu rộn ràng, trường em tổ chức đi chơi."
+                ],
+                "correct": "Vì mùa hè đã đến với những tiếng ve kêu rộn ràng, trường em tổ chức đi chơi."
+            },
+            {
+                "question": "Chuyến đi nghỉ mát của học sinh đến bãi biển Sầm Sơn diễn ra vào thời gian nào?",
+                "options": [
+                    "Sáng thứ năm tuần qua",
+                    "Sáng thứ sáu tuần qua",
+                    "Sáng thứ bảy tuần qua",
+                    "Sáng chủ nhật tuần qua"
+                ],
+                "correct": "Sáng thứ năm tuần qua"
+            },
+            {
+                "question": "Học sinh đã làm gì khi ở tại khách sạn gần biển?",
+                "options": [
+                    "Ngắm cảnh suốt cả ngày lẫn đêm",
+                    "Nằm nghỉ ngơi để tránh nắng chói chang",
+                    "Nghe tiếng sóng vỗ rì rào vào ban ngày",
+                    "Đón ánh mặt trời nhô lên từ phía chân trời"
+                ],
+                "correct": "Ngắm cảnh suốt cả ngày lẫn đêm"
+            },
+            {
+                "question": "Trong bài đọc, từ “tấm gương khổng lồ” được dùng để chỉ đối tượng nào?",
+                "options": [
+                    "Bãi cát trắng trải dài",
+                    "Nước biển xanh trong",
+                    "Những con thuyền đánh cá",
+                    "Những ngôi nhà cao tầng"
+                ],
+                "correct": "Nước biển xanh trong"
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Chúng em nán lại thêm một chút để ngắm nhìn vẻ đẹp của biển.",
+                    "Khi hoàng hôn buông xuống, mặt biển đổi sang màu tím sẫm.",
+                    "Mọi người chơi đùa rất vui vẻ mà không thấy mệt mỏi.",
+                    "Nhờ có ánh đèn từ các dãy phố, bãi biển trở nên lung linh."
+                ],
+                "correct": "Nhờ có ánh đèn từ các dãy phố, bãi biển trở nên lung linh."
+            },
+            {
+                "question": "Những con thuyền đánh cá ở ngoài xa được tác giả so sánh với hình ảnh nào?",
+                "options": [
+                    "Những con sóng lớn",
+                    "Những cánh bướm nhỏ",
+                    "Những ngôi nhà cao tầng",
+                    "Những tấm gương khổng lồ"
+                ],
+                "correct": "Những cánh bướm nhỏ"
+            },
+            {
+                "question": "Trạng thái của học sinh khi chiều về ra biển chơi là gì?",
+                "options": [
+                    "Cảm thấy vô cùng hạnh phúc",
+                    "Cảm thấy mệt mỏi vì nắng nóng",
+                    "Cảm thấy sảng khoái và thư giãn",
+                    "Cảm thấy lo lắng vì sóng lớn"
+                ],
+                "correct": "Cảm thấy sảng khoái và thư giãn"
+            },
+            {
+                "question": "Từ “chói chang” trong câu “nắng bắt đầu chói chang” có thể được hiểu là gì?",
+                "options": [
+                    "Ánh nắng dịu nhẹ và mát mẻ",
+                    "Ánh nắng gay gắt và mạnh mẽ",
+                    "Ánh nắng yếu ớt vào buổi chiều",
+                    "Ánh nắng bị che khuất bởi mây"
+                ],
+                "correct": "Ánh nắng gay gắt và mạnh mẽ"
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Sáng mai, chúng em dự định sẽ dậy thật sớm.",
+                    "Chuyến đi này chắc chắn sẽ là một kỷ niệm đẹp.",
+                    "Ai cũng cảm thấy sảng khoái sau những ngày học tập.",
+                    "Khi chiều về, nắng đã dịu đi, chúng em lại tiếp tục ra biển."
+                ],
+                "correct": "Khi chiều về, nắng đã dịu đi, chúng em lại tiếp tục ra biển."
+            },
+            {
+                "question": "Học sinh dự định sẽ làm gì vào sáng mai?",
+                "options": [
+                    "Đi dạo quanh các dãy phố",
+                    "Ngắm cảnh biển vào ban đêm",
+                    "Đón ánh mặt trời nhô lên từ phía chân trời",
+                    "Thu dọn hành lý để trở về nhà"
+                ],
+                "correct": "Đón ánh mặt trời nhô lên từ phía chân trời"
+            },
+            {
+                "question": "Đặc điểm của bãi biển Sầm Sơn vào buổi sáng là gì?",
+                "options": [
+                    "Rất đông người và ồn ào",
+                    "Vắng vẻ và yên tĩnh",
+                    "Lung linh với ánh đèn phố",
+                    "Huyền bí với màu tím sẫm"
+                ],
+                "correct": "Rất đông người và ồn ào"
+            },
+            {
+                "question": "Từ “chúng em” trong bài đọc được dùng để chỉ đối tượng nào?",
+                "options": [
+                    "Những người dân địa phương tại Sầm Sơn",
+                    "Những học sinh trong chuyến đi nghỉ mát",
+                    "Những du khách đang nghỉ tại khách sạn",
+                    "Những người đang đánh cá trên biển"
+                ],
+                "correct": "Những học sinh trong chuyến đi nghỉ mát"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
+    },
+    {
+        "title": "Hành trình theo đuổi đam mê nghề bếp",
+        "text": "Tôi sinh ra trong một gia đình nông dân nghèo khó và mồ côi cha mẹ từ khi còn rất nhỏ. Dù hoàn cảnh khó khăn nhưng nhờ sự giúp đỡ của các anh chị, tôi vẫn được đi học đầy đủ. Sau khi tốt nghiệp trung học, tôi cũng giống như nhiều bạn trẻ khác, luôn ước mơ học đại học để có cuộc sống tốt đẹp hơn. Tôi rời quê hương, một mình đến Sài Gòn để thi đại học.\n\nLần đầu đặt chân đến thành phố lớn, tôi vô cùng ngạc nhiên trước vẻ đẹp hoa lệ nơi đây. Trong một lần đi chơi, tôi tình cờ nhìn thấy các đầu bếp đang biểu diễn nấu ăn với những ngọn lửa rực cháy. Hình ảnh đó khiến tôi cảm thấy rất thích thú và ấn tượng mạnh mẽ. Tiếc rằng, kỳ thi đại học năm đó tôi không đạt kết quả như ý muốn. Cảm giác chán nản bao trùm lấy tôi, nhưng cũng chính từ lúc đó, tôi bắt đầu suy nghĩ về con đường nghề nghiệp tương lai.\n\nKhi trở về quê, tôi nhận được giấy mời xét tuyển của một trường nghề. Lúc này, ý nghĩ trở thành đầu bếp lại lóe lên trong đầu tôi. Tôi quyết định nghe theo tiếng gọi của trái tim, dù gia đình không ủng hộ vì định kiến đàn ông thì không nên làm nghề nấu ăn. Tôi theo học hệ cao đẳng trong ba năm. Trong thời gian đó, tôi may mắn được chọn đi thực tập tại Singapore. Chỉ sau bốn tháng làm việc, tôi đã học hỏi được rất nhiều kinh nghiệm quý giá.\n\nTrở về Việt Nam, tôi bắt đầu công việc với vị trí phụ bếp. Công việc rất vất vả, tôi phải làm việc từ sáng đến đêm khuya, mặt mũi luôn lấm lem vì khói bếp. Tháng lương đầu tiên chỉ vỏn vẹn hai triệu rưỡi, nhưng tôi vô cùng hạnh phúc vì đó là thành quả từ chính sức lao động của mình. Thời gian trôi qua, nhờ sự cần mẫn, tôi dần được đứng chảo và nấu những món ăn cho khách. Sau nhiều năm nỗ lực, tôi đã trở thành bếp phó tại một khách sạn lớn. Hiện nay, ở tuổi hai mươi bảy, tôi đang làm bếp trưởng tại một khách sạn chuyên nghiệp. Qua câu chuyện của mình, tôi muốn gửi tới các bạn một thông điệp ý nghĩa: Nếu chúng ta có đam mê và quyết tâm theo đuổi, nhất định chúng ta sẽ thành công.",
+        "dictionary": {
+            "gia đình": "家庭",
+            "nông dân": "农民",
+            "nghèo khó": "贫穷",
+            "mồ côi": "孤儿",
+            "cha mẹ": "父母",
+            "hoàn cảnh": "境况",
+            "khó khăn": "困难",
+            "sự giúp đỡ": "帮助",
+            "anh chị": "兄弟姐妹",
+            "học": "学习",
+            "tốt nghiệp": "毕业",
+            "trung học": "中学",
+            "bạn trẻ": "年轻人",
+            "ước mơ": "梦想",
+            "đại học": "大学",
+            "cuộc sống": "生活",
+            "tốt đẹp": "美好",
+            "quê hương": "家乡",
+            "Sài Gòn": "西贡",
+            "thi": "考试",
+            "thành phố": "城市",
+            "lớn": "大",
+            "ngạc nhiên": "惊讶",
+            "vẻ đẹp": "美景",
+            "hoa lệ": "华丽",
+            "đầu bếp": "厨师",
+            "biểu diễn": "表演",
+            "nấu ăn": "烹饪",
+            "ngọn lửa": "火焰",
+            "rực cháy": "燃烧",
+            "hình ảnh": "形象",
+            "thích thú": "感兴趣",
+            "ấn tượng": "印象",
+            "mạnh mẽ": "强烈",
+            "kỳ thi": "考试",
+            "kết quả": "结果",
+            "ý muốn": "意愿",
+            "cảm giác": "感觉",
+            "chán nản": "沮丧",
+            "bao trùm": "笼罩",
+            "con đường": "道路",
+            "nghề nghiệp": "职业",
+            "tương lai": "未来",
+            "quê": "家乡",
+            "giấy mời": "邀请函",
+            "xét tuyển": "录取",
+            "trường nghề": "职业学校",
+            "ý nghĩ": "想法",
+            "trở thành": "成为",
+            "lóe lên": "闪现",
+            "đầu": "头",
+            "quyết định": "决定",
+            "nghe": "听",
+            "tiếng gọi": "呼唤",
+            "trái tim": "内心",
+            "ủng hộ": "支持",
+            "định kiến": "偏见",
+            "đàn ông": "男人",
+            "hệ": "系",
+            "cao đẳng": "大专",
+            "năm": "年",
+            "thời gian": "时间",
+            "may mắn": "幸运",
+            "chọn": "选择",
+            "thực tập": "实习",
+            "Singapore": "新加坡",
+            "tháng": "月",
+            "làm việc": "工作",
+            "học hỏi": "学习",
+            "kinh nghiệm": "经验",
+            "quý giá": "宝贵",
+            "Việt Nam": "越南",
+            "công việc": "工作",
+            "vị trí": "职位",
+            "phụ bếp": "厨师助理",
+            "vất vả": "辛苦",
+            "sáng": "早晨",
+            "đêm khuya": "深夜",
+            "mặt mũi": "脸面",
+            "lấm lem": "脏兮兮",
+            "khói": "烟",
+            "lương": "工资",
+            "triệu": "百万",
+            "hạnh phúc": "幸福",
+            "thành quả": "成果",
+            "sức lao động": "劳动",
+            "cần mẫn": "勤奋",
+            "đứng chảo": "掌勺",
+            "món ăn": "菜肴",
+            "khách": "客人",
+            "nỗ lực": "努力",
+            "bếp phó": "副主厨",
+            "khách sạn": "酒店",
+            "tuổi": "岁",
+            "hai mươi bảy": "二十七",
+            "bếp trưởng": "主厨",
+            "chuyên nghiệp": "专业",
+            "câu chuyện": "故事",
+            "thông điệp": "信息",
+            "ý nghĩa": "意义",
+            "đam mê": "热情",
+            "quyết tâm": "决心",
+            "theo đuổi": "追求",
+            "thành công": "成功"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai ngữ pháp?",
+                "options": [
+                    "Tôi sinh ra trong một gia đình nông dân nghèo khó.",
+                    "Tôi rời quê hương, một mình đến Sài Gòn để thi đại học.",
+                    "Dù gia đình không ủng hộ vì định kiến đàn ông thì không nên làm nghề nấu ăn.",
+                    "Nhờ sự cần mẫn, tôi dần được đứng chảo và nấu những món ăn cho khách."
+                ],
+                "correct": "Dù gia đình không ủng hộ vì định kiến đàn ông thì không nên làm nghề nấu ăn."
+            },
+            {
+                "question": "Nhân vật chính trong bài đọc đã làm gì sau khi trượt kỳ thi đại học?",
+                "options": [
+                    "Tiếp tục ở lại Sài Gòn để tìm việc làm thêm.",
+                    "Trở về quê và nhận giấy mời xét tuyển của một trường nghề.",
+                    "Đi thực tập tại Singapore ngay lập tức.",
+                    "Tìm kiếm cơ hội làm phụ bếp tại các khách sạn lớn."
+                ],
+                "correct": "Trở về quê và nhận giấy mời xét tuyển của một trường nghề."
+            },
+            {
+                "question": "Nhân vật chính đã học tập tại Singapore trong bao lâu?",
+                "options": [
+                    "Ba năm",
+                    "Bốn tháng",
+                    "Hai năm",
+                    "Sáu tháng"
+                ],
+                "correct": "Bốn tháng"
+            },
+            {
+                "question": "Tại sao gia đình của nhân vật chính không ủng hộ anh theo nghề nấu ăn?",
+                "options": [
+                    "Vì nghề nấu ăn quá vất vả và thu nhập thấp.",
+                    "Vì gia đình muốn anh tiếp tục học đại học.",
+                    "Vì định kiến đàn ông thì không nên làm nghề nấu ăn.",
+                    "Vì gia đình muốn anh ở lại quê làm nông dân."
+                ],
+                "correct": "Vì định kiến đàn ông thì không nên làm nghề nấu ăn."
+            },
+            {
+                "question": "Công việc đầu tiên của nhân vật chính sau khi trở về Việt Nam là gì?",
+                "options": [
+                    "Bếp trưởng tại một khách sạn chuyên nghiệp.",
+                    "Bếp phó tại một khách sạn lớn.",
+                    "Phụ bếp.",
+                    "Đầu bếp biểu diễn nấu ăn."
+                ],
+                "correct": "Phụ bếp."
+            },
+            {
+                "question": "Trạng thái của nhân vật chính khi nhận được tháng lương đầu tiên là gì?",
+                "options": [
+                    "Chán nản vì lương quá thấp.",
+                    "Vô cùng hạnh phúc vì đó là thành quả sức lao động.",
+                    "Ngạc nhiên trước vẻ đẹp hoa lệ của thành phố.",
+                    "Lo lắng vì công việc quá vất vả."
+                ],
+                "correct": "Vô cùng hạnh phúc vì đó là thành quả sức lao động."
+            },
+            {
+                "question": "Hình ảnh nào đã tạo nên ấn tượng mạnh mẽ khiến nhân vật chính yêu thích nghề bếp?",
+                "options": [
+                    "Hình ảnh các đầu bếp biểu diễn nấu ăn với ngọn lửa rực cháy.",
+                    "Hình ảnh những món ăn ngon tại khách sạn lớn.",
+                    "Hình ảnh cuộc sống đầy đủ của các bạn trẻ ở Sài Gòn.",
+                    "Hình ảnh những người làm việc vất vả từ sáng đến đêm khuya."
+                ],
+                "correct": "Hình ảnh các đầu bếp biểu diễn nấu ăn với ngọn lửa rực cháy."
+            },
+            {
+                "question": "Hiện nay, nhân vật chính đang đảm nhận vị trí gì?",
+                "options": [
+                    "Phụ bếp tại một khách sạn lớn.",
+                    "Bếp phó tại một khách sạn chuyên nghiệp.",
+                    "Bếp trưởng tại một khách sạn chuyên nghiệp.",
+                    "Đầu bếp thực tập tại Singapore."
+                ],
+                "correct": "Bếp trưởng tại một khách sạn chuyên nghiệp."
+            },
+            {
+                "question": "Từ “hoa lệ” trong đoạn hai có thể được hiểu là gì?",
+                "options": [
+                    "Vẻ đẹp sang trọng, rực rỡ và lộng lẫy.",
+                    "Sự nghèo khó và thiếu thốn.",
+                    "Sự vất vả và lấm lem khói bếp.",
+                    "Sự chán nản và thất vọng."
+                ],
+                "correct": "Vẻ đẹp sang trọng, rực rỡ và lộng lẫy."
+            },
+            {
+                "question": "Từ “cần mẫn” trong đoạn cuối có thể được thay thế bằng từ nào dưới đây?",
+                "options": [
+                    "Lười biếng",
+                    "Chăm chỉ",
+                    "May mắn",
+                    "Nhanh nhẹn"
+                ],
+                "correct": "Chăm chỉ"
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai ngữ pháp?",
+                "options": [
+                    "Tôi sinh ra trong một gia đình nông dân nghèo khó.",
+                    "Sau khi tốt nghiệp trung học, tôi cũng giống như nhiều bạn trẻ khác.",
+                    "Tháng lương đầu tiên chỉ vỏn vẹn hai triệu rưỡi, tôi vô cùng hạnh phúc.",
+                    "Nếu chúng ta có đam mê và quyết tâm theo đuổi, nhất định chúng ta sẽ thành công."
+                ],
+                "correct": "Tháng lương đầu tiên chỉ vỏn vẹn hai triệu rưỡi, tôi vô cùng hạnh phúc."
+            },
+            {
+                "question": "Cụm từ “tiếng gọi của trái tim” trong bài đọc ám chỉ điều gì?",
+                "options": [
+                    "Sự ép buộc của gia đình.",
+                    "Ước mơ trở thành đầu bếp của nhân vật.",
+                    "Kết quả của kỳ thi đại học.",
+                    "Sự chán nản khi trở về quê."
+                ],
+                "correct": "Ước mơ trở thành đầu bếp của nhân vật."
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
+    },
+    {
+        "title": "Buổi lễ chào cờ đầu tuần tại trường học",
+        "text": "Sáng thứ hai, em đến trường sớm hơn mọi ngày vì hôm nay có tổ chức lễ chào cờ. Thời tiết hôm nay rất đẹp, bầu trời xanh ngắt với những đám mây trắng bay nhẹ nhàng. Tại sân trường, các bạn học sinh đã có mặt đông đủ. Mọi người đều mặc đồng phục rất chỉnh tề và sạch sẽ. Màu trắng của áo đồng phục, màu đen của những mái tóc và màu đỏ tươi của chiếc khăn quàng trên vai các bạn học sinh làm cho sân trường trông như một khu vườn đầy hoa. Những chiếc ghế nhiều màu sắc được xếp thành hàng ngay ngắn. Trên khán đài, các thầy cô giáo đang chuẩn bị cho buổi lễ một cách cẩn thận.\n\nCác bạn đội trống mặc bộ quần áo trắng đang đánh thử những tiếng trống vang lên mạnh mẽ. Tiếng trống như thôi thúc chúng em nhanh chóng vào hàng. Khi toàn trường đã ổn định, tiếng loa phát thanh vang lên mời mọi người đứng dậy làm lễ chào cờ. Tất cả học sinh đều đứng nghiêm trang, tay giơ lên chào lá Quốc kì. Lúc đó, không gian trở nên rất yên tĩnh, những tiếng cười đùa hay tiếng chim hót đều biến mất. Chúng em cùng nhau hát vang bài Quốc ca. Bài hát như nhắc nhở chúng em về lòng yêu nước và sự biết ơn đối với những người đã bảo vệ Tổ quốc. Sau đó, bài Đội ca cũng vang lên để nhắc nhở các bạn học sinh phải chăm chỉ học tập, xứng đáng là con ngoan trò giỏi.\n\nTiếp theo, cô tổng phụ trách hô to khẩu hiệu và cả trường đồng thanh đáp lại “Sẵn sàng”. Tiếng hô to của hàng trăm học sinh làm cho bầu không khí trở nên rất sôi động. Sau đó, thầy hiệu trưởng lên nhận xét về các hoạt động trong tuần qua. Thầy khen lớp em đạt được nhiều thành tích tốt trong đợt thi đua vừa rồi. Buổi lễ kết thúc, chúng em lần lượt xếp hàng đi vào lớp học. Khi ngồi trong lớp, hình ảnh lá cờ đỏ sao vàng vẫn còn đọng lại trong tâm trí em. Mái trường thân yêu cùng với những buổi lễ chào cờ đầu tuần luôn là kỷ niệm đẹp, không bao giờ phai mờ trong lòng mỗi học sinh chúng em. Em cảm thấy rất vui và tự hào khi được học tập tại ngôi trường này.",
+        "dictionary": {
+            "Sáng": "早晨",
+            "thứ hai": "周一",
+            "em": "我",
+            "trường": "学校",
+            "ngày": "天",
+            "hôm nay": "今天",
+            "tổ chức": "组织",
+            "lễ": "仪式",
+            "chào cờ": "升旗",
+            "Thời tiết": "天气",
+            "đẹp": "美",
+            "bầu trời": "天空",
+            "xanh ngắt": "湛蓝",
+            "đám mây": "云朵",
+            "trắng": "白",
+            "bay": "飘",
+            "nhẹ nhàng": "轻盈",
+            "sân trường": "校园",
+            "học sinh": "学生",
+            "mặt": "面",
+            "đông đủ": "齐聚",
+            "mọi người": "大家",
+            "mặc": "穿",
+            "đồng phục": "校服",
+            "chỉnh tề": "整齐",
+            "sạch sẽ": "干净",
+            "Màu": "颜色",
+            "áo": "衣服",
+            "đen": "黑",
+            "mái tóc": "头发",
+            "đỏ tươi": "鲜红",
+            "chiếc khăn quàng": "红领巾",
+            "vai": "肩膀",
+            "khu vườn": "花园",
+            "hoa": "花",
+            "ghế": "椅子",
+            "màu sắc": "色彩",
+            "xếp": "排列",
+            "hàng": "行",
+            "ngay ngắn": "整齐",
+            "khán đài": "看台",
+            "thầy cô giáo": "老师",
+            "chuẩn bị": "准备",
+            "buổi lễ": "典礼",
+            "cẩn thận": "仔细",
+            "đội trống": "鼓号队",
+            "bộ quần áo": "套装",
+            "đánh": "敲",
+            "tiếng trống": "鼓声",
+            "vang lên": "响起",
+            "mạnh mẽ": "响亮",
+            "thôi thúc": "催促",
+            "nhanh chóng": "迅速",
+            "ổn định": "稳定",
+            "loa phát thanh": "广播",
+            "mời": "邀请",
+            "đứng dậy": "站起",
+            "nghiêm trang": "庄重",
+            "tay": "手",
+            "giơ": "举",
+            "lá Quốc kì": "国旗",
+            "không gian": "空间",
+            "yên tĩnh": "安静",
+            "tiếng cười đùa": "嬉笑声",
+            "tiếng chim hót": "鸟鸣声",
+            "biến mất": "消失",
+            "hát": "唱",
+            "bài Quốc ca": "国歌",
+            "bài hát": "歌曲",
+            "nhắc nhở": "提醒",
+            "lòng yêu nước": "爱国心",
+            "sự biết ơn": "感恩",
+            "bảo vệ": "保卫",
+            "Tổ quốc": "祖国",
+            "bài Đội ca": "队歌",
+            "chăm chỉ": "勤奋",
+            "học tập": "学习",
+            "xứng đáng": " xứng đáng",
+            "con ngoan": "好孩子",
+            "trò giỏi": "好学生",
+            "cô tổng phụ trách": "总辅导员",
+            "hô": "喊",
+            "khẩu hiệu": "口号",
+            "đồng thanh": "齐声",
+            "đáp lại": "回答",
+            "Sẵn sàng": "准备好了",
+            "bầu không khí": "氛围",
+            "sôi động": "热烈",
+            "thầy hiệu trưởng": "校长",
+            "nhận xét": "评价",
+            "hoạt động": "活动",
+            "tuần": "周",
+            "khen": "表扬",
+            "lớp": "班级",
+            "đạt được": "获得",
+            "thành tích": "成绩",
+            "tốt": "好",
+            "đợt thi đua": "竞赛",
+            "kết thúc": "结束",
+            "lần lượt": "依次",
+            "ngồi": "坐",
+            "hình ảnh": "形象",
+            "cờ đỏ sao vàng": "金星红旗",
+            "đọng lại": "留存",
+            "tâm trí": "心中",
+            "thân yêu": "亲爱",
+            "kỷ niệm": "纪念",
+            "phai mờ": "淡忘",
+            "vui": " vui",
+            "tự hào": "自豪"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Thời tiết hôm nay rất đẹp, bầu trời xanh ngắt với những đám mây trắng bay nhẹ nhàng.",
+                    "Các bạn đội trống mặc bộ quần áo trắng đang đánh thử những tiếng trống vang lên mạnh mẽ.",
+                    "Khi toàn trường đã ổn định, tiếng loa phát thanh vang lên mời mọi người đứng dậy làm lễ chào cờ.",
+                    "Sáng thứ hai, em đến trường sớm hơn mọi ngày vì hôm nay có tổ chức lễ chào cờ."
+                ],
+                "correct": "Các bạn đội trống mặc bộ quần áo trắng đang đánh thử những tiếng trống vang lên mạnh mẽ."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Tất cả học sinh đều đứng nghiêm trang, tay giơ lên chào lá Quốc kì.",
+                    "Sau đó, bài Đội ca cũng vang lên để nhắc nhở các bạn học sinh phải chăm chỉ học tập.",
+                    "Màu trắng của áo đồng phục, màu đen của những mái tóc và màu đỏ tươi của chiếc khăn quàng làm cho sân trường trông như một khu vườn đầy hoa.",
+                    "Khi ngồi trong lớp, hình ảnh lá cờ đỏ sao vàng vẫn còn đọng lại trong tâm trí em."
+                ],
+                "correct": "Màu trắng của áo đồng phục, màu đen của những mái tóc và màu đỏ tươi của chiếc khăn quàng làm cho sân trường trông như một khu vườn đầy hoa."
+            },
+            {
+                "question": "Ai là người lên nhận xét về các hoạt động trong tuần qua?",
+                "options": [
+                    "Cô tổng phụ trách",
+                    "Thầy hiệu trưởng",
+                    "Các thầy cô giáo",
+                    "Các bạn học sinh"
+                ],
+                "correct": "Thầy hiệu trưởng"
+            },
+            {
+                "question": "Các bạn đội trống mặc trang phục màu gì khi đang đánh thử trống?",
+                "options": [
+                    "Màu đỏ",
+                    "Màu đen",
+                    "Màu trắng",
+                    "Màu xanh"
+                ],
+                "correct": "Màu trắng"
+            },
+            {
+                "question": "Hoạt động nào diễn ra ngay sau khi toàn trường đã ổn định?",
+                "options": [
+                    "Hát vang bài Quốc ca",
+                    "Tiếng loa phát thanh mời mọi người đứng dậy làm lễ chào cờ",
+                    "Cô tổng phụ trách hô khẩu hiệu",
+                    "Thầy hiệu trưởng lên nhận xét"
+                ],
+                "correct": "Tiếng loa phát thanh mời mọi người đứng dậy làm lễ chào cờ"
+            },
+            {
+                "question": "Theo bài đọc, không gian trở nên như thế nào khi học sinh chào lá Quốc kì?",
+                "options": [
+                    "Rất sôi động",
+                    "Rất yên tĩnh",
+                    "Rất ồn ào",
+                    "Rất náo nhiệt"
+                ],
+                "correct": "Rất yên tĩnh"
+            },
+            {
+                "question": "Thái độ của học sinh khi hát bài Quốc ca là gì?",
+                "options": [
+                    "Cười đùa vui vẻ",
+                    "Nhắc nhở nhau học tập",
+                    "Đứng nghiêm trang",
+                    "Đồng thanh đáp lại sẵn sàng"
+                ],
+                "correct": "Đứng nghiêm trang"
+            },
+            {
+                "question": "Thầy hiệu trưởng đã khen lớp của nhân vật “em” về điều gì?",
+                "options": [
+                    "Đạt được nhiều thành tích tốt trong đợt thi đua",
+                    "Mặc đồng phục rất chỉnh tề và sạch sẽ",
+                    "Xếp hàng đi vào lớp học rất nhanh",
+                    "Hát bài Đội ca rất hay"
+                ],
+                "correct": "Đạt được nhiều thành tích tốt trong đợt thi đua"
+            },
+            {
+                "question": "Từ “đó” trong câu “Lúc đó, không gian trở nên rất yên tĩnh” dùng để chỉ thời điểm nào?",
+                "options": [
+                    "Khi các bạn đội trống đang đánh thử trống",
+                    "Khi thầy hiệu trưởng đang nhận xét",
+                    "Khi học sinh đang chào lá Quốc kì",
+                    "Khi cô tổng phụ trách hô khẩu hiệu"
+                ],
+                "correct": "Khi học sinh đang chào lá Quốc kì"
+            },
+            {
+                "question": "Từ “Sẵn sàng” trong bài đọc được hiểu là gì?",
+                "options": [
+                    "Lời đáp lại khẩu hiệu của cô tổng phụ trách",
+                    "Lời chào của thầy hiệu trưởng",
+                    "Tên của một bài hát Đội",
+                    "Lời nhắc nhở của các thầy cô giáo"
+                ],
+                "correct": "Lời đáp lại khẩu hiệu của cô tổng phụ trách"
+            },
+            {
+                "question": "Cụm từ “con ngoan trò giỏi” trong bài đọc dùng để chỉ đối tượng nào?",
+                "options": [
+                    "Các thầy cô giáo",
+                    "Các bạn học sinh",
+                    "Cô tổng phụ trách",
+                    "Thầy hiệu trưởng"
+                ],
+                "correct": "Các bạn học sinh"
+            },
+            {
+                "question": "Từ “chỉnh tề” trong câu “Mọi người đều mặc đồng phục rất chỉnh tề và sạch sẽ” có thể được thay thế bằng từ nào dưới đây?",
+                "options": [
+                    "Gọn gàng",
+                    "Lộng lẫy",
+                    "Đắt tiền",
+                    "Rực rỡ"
+                ],
+                "correct": "Gọn gàng"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
+    }
+]
