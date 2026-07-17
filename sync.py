@@ -5,7 +5,7 @@ import requests
 import io  # <-- Thêm thư viện này để xử lý chuỗi dữ liệu chuyên nghiệp
 
 # Link xuất bản CSV của bạn
-CSV_URL = "https://script.google.com/home/projects/1Bl0RGUy2mZD8cWRl8aSxaNHu6dygVscQbJQCXxGRL5U7QG3SXRKIcdsb/edit"
+CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRQhdd9aNxY8pBChZgUILO8JyC_cpl9EmIgM5kwUDQ5X3PsGFdVuAfCWn1SE2GzRLgxkBEAGwTz1Hhz/pub?gid=484991193&single=true&output=csv"
 
 JSON_FILE = "lessons.json"
 
