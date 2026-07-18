@@ -1161,5 +1161,484 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Kỉ niệm về ngày sinh nhật đáng nhớ",
+        "text": "Trong cuộc đời mỗi người, ai cũng có những kỉ niệm đẹp. Mỗi khi nhớ về, chúng ta đều cảm thấy rất hạnh phúc. Với tôi, kỉ niệm đáng nhớ nhất chính là buổi tiệc sinh nhật lần thứ mười hai. Đó là một ngày vô cùng bất ngờ và ý nghĩa mà tôi không bao giờ quên.\n\nNgày sinh nhật của tôi là ngày hai mươi bảy tháng mười một. Chiều hôm đó, mẹ đưa tôi ra chợ và mua cho tôi một chiếc áo khoác màu đỏ. Mẹ nói đó là quà sinh nhật. Tôi rất vui vì chiếc áo đó rất đẹp và ấm áp. Sau khi mua sắm xong, hai mẹ con trở về nhà. Tôi nghĩ rằng tối hôm đó gia đình sẽ có một bữa cơm đơn giản và ấm cúng cùng ông bà.\n\nTuy nhiên, khi vừa mở cửa nhà, tôi đã rất ngạc nhiên. Những mảnh pháo giấy bay khắp phòng. Trước mắt tôi là tất cả những người thân yêu và cả những người bạn thân thiết. Mọi người cùng hát vang bài hát chúc mừng sinh nhật. Bố tôi đang cầm một chiếc bánh gato rất to và đẹp. Tôi đứng lặng người vì quá bất ngờ. Bố mỉm cười và nói với tôi: “Con gái của bố, sinh nhật vui vẻ”. Lúc đó, tôi chỉ biết mỉm cười hạnh phúc.\n\nThì ra, các bạn đã đến nhà tặng quà từ sớm và bố tôi đã giữ mọi người lại để tạo bất ngờ cho tôi. Tôi cảm thấy vô cùng cảm động và biết ơn bố mẹ. Mọi người cùng nhau ăn bánh kẹo, hoa quả và trò chuyện rất vui vẻ. Khi thổi nến, tôi đã ước rằng bố mẹ luôn có sức khỏe tốt và bạn bè luôn gắn bó với nhau. \n\nMọi người tặng tôi rất nhiều món quà đơn sơ nhưng chứa đựng tình cảm lớn lao. Đối với tôi, đó là những món quà quý giá nhất. Buổi tiệc sinh nhật năm ấy không chỉ có bánh ngọt mà còn tràn ngập tình yêu thương. Tôi tự hứa với bản thân rằng sẽ cố gắng học tập thật tốt để không phụ lòng yêu thương của bố mẹ và bạn bè. Kỉ niệm ngày hôm đó đã trở thành một phần kí ức tươi đẹp, luôn sưởi ấm tâm hồn tôi mỗi khi nhớ về. Cho đến tận bây giờ, tôi vẫn luôn trân trọng những món quà và tình cảm mà mọi người đã dành tặng cho mình trong ngày đặc biệt đó.",
+        "dictionary": {
+            "cuộc đời": "人生",
+            "người": "人",
+            "kỉ niệm": "纪念",
+            "đẹp": "美丽",
+            "nhớ": "想念",
+            "cảm thấy": "感到",
+            "hạnh phúc": "幸福",
+            "đáng nhớ": "难忘",
+            "buổi tiệc": "派对",
+            "sinh nhật": "生日",
+            "lần": "次",
+            "thứ mười hai": "第十二",
+            "ngày": "天",
+            "bất ngờ": "惊喜",
+            "ý nghĩa": "意义",
+            "quên": "忘记",
+            "hai mươi bảy": "二十七",
+            "tháng mười một": "十一月",
+            "chiều": "下午",
+            "mẹ": "妈妈",
+            "chợ": "市场",
+            "mua": "买",
+            "chiếc áo khoác": "外套",
+            "màu đỏ": "红色",
+            "quà": "礼物",
+            "vui": "开心",
+            "ấm áp": "温暖",
+            "mua sắm": "购物",
+            "xong": "完",
+            "hai mẹ con": "母女",
+            "trở về": "返回",
+            "nhà": "家",
+            "nghĩ": "想",
+            "tối": "晚上",
+            "gia đình": "家庭",
+            "bữa cơm": "餐",
+            "đơn giản": "简单",
+            "ấm cúng": "温馨",
+            "ông bà": "祖父母",
+            "mở": "打开",
+            "cửa": "门",
+            "ngạc nhiên": "惊讶",
+            "mảnh pháo giấy": "纸屑",
+            "bay": "飞",
+            "khắp": "到处",
+            "phòng": "房间",
+            "mắt": "眼睛",
+            "thân yêu": "亲爱",
+            "bạn": "朋友",
+            "thân thiết": "亲密",
+            "hát": "唱",
+            "vang": "响亮",
+            "bài hát": "歌曲",
+            "chúc mừng": "祝贺",
+            "bố": "爸爸",
+            "cầm": "拿",
+            "bánh gato": "蛋糕",
+            "to": "大",
+            "đứng": "站",
+            "lặng người": "发愣",
+            "mỉm cười": "微笑",
+            "con gái": "女儿",
+            "vui vẻ": "快乐",
+            "tặng": "赠送",
+            "sớm": "早",
+            "giữ": "留",
+            "tạo": "制造",
+            "cảm động": "感动",
+            "biết ơn": "感激",
+            "ăn": "吃",
+            "bánh kẹo": "糖果",
+            "hoa quả": "水果",
+            "trò chuyện": "聊天",
+            "thổi": "吹",
+            "nến": "蜡烛",
+            "ước": "许愿",
+            "sức khỏe": "健康",
+            "tốt": "好",
+            "gắn bó": "紧密",
+            "món quà": "礼物",
+            "đơn sơ": "朴素",
+            "chứa đựng": "包含",
+            "tình cảm": "感情",
+            "lớn lao": "巨大",
+            "quý giá": "珍贵",
+            "năm": "年",
+            "bánh ngọt": "甜点",
+            "tràn ngập": "充满",
+            "yêu thương": "爱",
+            "tự hứa": "自许",
+            "bản thân": "自身",
+            "cố gắng": "努力",
+            "học tập": "学习",
+            "phụ": "辜负",
+            "kí ức": "记忆",
+            "tươi đẹp": "美好",
+            "sưởi ấm": "温暖",
+            "tâm hồn": "心灵",
+            "bây giờ": "现在",
+            "trân trọng": "珍惜",
+            "đặc biệt": "特别"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai ngữ pháp?",
+                "options": [
+                    "Ngày sinh nhật của tôi là ngày hai mươi bảy tháng mười một.",
+                    "Mẹ mua cho tôi một chiếc áo khoác màu đỏ rất đẹp.",
+                    "Vì tôi rất vui chiếc áo đó rất đẹp và ấm áp.",
+                    "Tôi tự hứa với bản thân rằng sẽ cố gắng học tập thật tốt."
+                ],
+                "correct": "Vì tôi rất vui chiếc áo đó rất đẹp và ấm áp."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu đúng ngữ pháp?",
+                "options": [
+                    "Khi thổi nến, tôi đã ước rằng bố mẹ luôn có sức khỏe tốt.",
+                    "Bố tôi đang cầm một chiếc bánh gato rất to và đẹp là.",
+                    "Mọi người cùng hát vang bài hát chúc mừng sinh nhật là.",
+                    "Đó là một ngày vô cùng bất ngờ và ý nghĩa tôi không bao giờ quên."
+                ],
+                "correct": "Khi thổi nến, tôi đã ước rằng bố mẹ luôn có sức khỏe tốt."
+            },
+            {
+                "question": "Nhân vật “tôi” trong bài đọc đã nhận được món quà gì từ mẹ vào buổi chiều ngày sinh nhật?",
+                "options": [
+                    "Một chiếc bánh gato rất to và đẹp",
+                    "Một chiếc áo khoác màu đỏ",
+                    "Những mảnh pháo giấy",
+                    "Những món quà đơn sơ"
+                ],
+                "correct": "Một chiếc áo khoác màu đỏ"
+            },
+            {
+                "question": "Ai là người đã giữ các bạn của nhân vật “tôi” ở lại để tạo bất ngờ?",
+                "options": [
+                    "Ông bà",
+                    "Mẹ",
+                    "Bố",
+                    "Bạn thân"
+                ],
+                "correct": "Bố"
+            },
+            {
+                "question": "Sự kiện bất ngờ diễn ra tại đâu trong bài đọc?",
+                "options": [
+                    "Tại chợ",
+                    "Tại nhà",
+                    "Tại trường học",
+                    "Tại tiệm bánh"
+                ],
+                "correct": "Tại nhà"
+            },
+            {
+                "question": "Trạng thái của nhân vật “tôi” khi vừa mở cửa nhà và thấy mọi người là gì?",
+                "options": [
+                    "Vui mừng và nhảy cẫng lên",
+                    "Ngạc nhiên và đứng lặng người",
+                    "Buồn bã vì không biết trước",
+                    "Lo lắng vì nhà quá đông người"
+                ],
+                "correct": "Ngạc nhiên và đứng lặng người"
+            },
+            {
+                "question": "Hoạt động nào dưới đây được diễn ra trong buổi tiệc sinh nhật của nhân vật “tôi”?",
+                "options": [
+                    "Cả nhà cùng đi mua sắm tại chợ",
+                    "Mọi người cùng hát vang bài hát chúc mừng sinh nhật",
+                    "Nhân vật “tôi” đi tặng quà cho bạn bè",
+                    "Ông bà kể chuyện cho mọi người nghe"
+                ],
+                "correct": "Mọi người cùng hát vang bài hát chúc mừng sinh nhật"
+            },
+            {
+                "question": "Đặc điểm của những món quà mà nhân vật “tôi” nhận được trong buổi tiệc là gì?",
+                "options": [
+                    "Đắt tiền và sang trọng",
+                    "Đơn sơ nhưng chứa đựng tình cảm lớn lao",
+                    "Được mua tại chợ cùng với chiếc áo khoác",
+                    "Chỉ bao gồm bánh kẹo và hoa quả"
+                ],
+                "correct": "Đơn sơ nhưng chứa đựng tình cảm lớn lao"
+            },
+            {
+                "question": "Từ “đó” trong câu “Đó là một ngày vô cùng bất ngờ và ý nghĩa mà tôi không bao giờ quên” dùng để chỉ đối tượng nào?",
+                "options": [
+                    "Ngày hai mươi bảy tháng mười một",
+                    "Buổi tiệc sinh nhật lần thứ mười hai",
+                    "Ngày đi mua sắm cùng mẹ",
+                    "Ngày nhận được chiếc áo khoác màu đỏ"
+                ],
+                "correct": "Buổi tiệc sinh nhật lần thứ mười hai"
+            },
+            {
+                "question": "Từ “quý giá” trong đoạn văn có thể được hiểu là gì?",
+                "options": [
+                    "Có giá trị rất đắt về mặt tiền bạc",
+                    "Có giá trị tinh thần rất lớn, đáng trân trọng",
+                    "Là những món quà khó tìm mua được",
+                    "Là những món quà được tặng vào ngày sinh nhật"
+                ],
+                "correct": "Có giá trị tinh thần rất lớn, đáng trân trọng"
+            },
+            {
+                "question": "Cụm từ “sưởi ấm tâm hồn” trong bài đọc có nghĩa là gì?",
+                "options": [
+                    "Làm cho cơ thể cảm thấy nóng lên khi trời lạnh",
+                    "Mang lại cảm giác hạnh phúc, dễ chịu và ấm áp trong lòng",
+                    "Giúp nhân vật “tôi” quên đi những kỉ niệm buồn",
+                    "Làm cho căn phòng trở nên ấm cúng hơn"
+                ],
+                "correct": "Mang lại cảm giác hạnh phúc, dễ chịu và ấm áp trong lòng"
+            },
+            {
+                "question": "Từ “tươi đẹp” trong câu “Kỉ niệm ngày hôm đó đã trở thành một phần kí ức tươi đẹp” có thể thay thế bằng từ nào dưới đây?",
+                "options": [
+                    "Rực rỡ",
+                    "Đáng nhớ",
+                    "Mới mẻ",
+                    "Hào nhoáng"
+                ],
+                "correct": "Đáng nhớ"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
+    },
+    {
+        "title": "Chuyến thăm Hồ Gươm của em",
+        "text": "Quê gốc của em ở thủ đô Hà Nội, nhưng vì cha mẹ đã vào miền Nam sinh sống từ lâu nên em rất ít khi có dịp về thăm. Mùa hè vừa rồi, nhân dịp đám cưới của chú, em đã cùng bố về quê chơi. Trong những ngày ở Hà Nội, em ấn tượng nhất là khi được đến thăm Hồ Hoàn Kiếm, nơi gắn liền với truyền thuyết nổi tiếng của vua Lê Lợi.\n\nEm và bố đến thăm Hồ Gươm vào một buổi chiều thu mát mẻ. Thời tiết Hà Nội lúc này rất dễ chịu, có gió se lạnh và mùi hoa sữa thơm nhẹ nhàng bay trong không khí. Hồ Hoàn Kiếm nằm ngay ở trung tâm thành phố. Nhìn từ xa, mặt hồ phẳng lặng như một tấm gương khổng lồ phản chiếu hình ảnh những hàng cây cổ thụ và những rặng liễu xanh mát. Nước hồ trong xanh, thi thoảng vài chú cá đớp nước tạo nên những vòng tròn nhỏ trên mặt hồ. Những chiếc lá vàng rơi xuống mặt nước khiến khung cảnh trở nên thật yên bình và đẹp mắt.\n\nỞ giữa hồ là Tháp Rùa cổ kính với những mảng rêu phong, chứng kiến biết bao thay đổi của lịch sử. Gần đó là đền Ngọc Sơn với chiếc cầu Thê Húc màu đỏ nổi bật. Em còn thấy Tháp Bút và Đài Nghiên, những công trình thể hiện tinh thần hiếu học của người Việt Nam. Trong lúc dạo chơi, em may mắn gặp một cụ già sống ở Hà Nội cả đời. Cụ kể cho em nghe nhiều câu chuyện thú vị về lịch sử của hồ, điều đó làm em thấy rất vui và thêm hiểu biết về mảnh đất này. \n\nDọc theo con đường ven hồ, em thấy rất nhiều người đang đi dạo. Có những cặp đôi đang trò chuyện, những gia đình cùng nhau đi chơi và các cụ già đang tập thể dục. Tất cả tạo nên một không khí nhộn nhịp, vui vẻ và ấm áp. Chuyến thăm Hồ Gươm đã để lại trong em những kỷ niệm rất sâu sắc. Hà Nội không chỉ là một thành phố hiện đại mà còn là nơi lưu giữ những vẻ đẹp cổ kính, hoài niệm. Nếu có dịp ghé thăm Hà Nội, bạn đừng quên một lần đến Hồ Hoàn Kiếm để cảm nhận vẻ đẹp bình yên và thơ mộng này nhé. Đây chắc chắn sẽ là một trải nghiệm khó quên đối với bất kỳ ai khi đặt chân đến thủ đô của Việt Nam.",
+        "dictionary": {
+            "Quê": "家乡",
+            "gốc": "根源",
+            "thủ đô": "首都",
+            "Hà Nội": "河内",
+            "cha mẹ": "父母",
+            "miền Nam": "南方",
+            "sinh sống": "生活",
+            "dịp": "机会",
+            "thăm": "探望",
+            "Mùa hè": "夏天",
+            "đám cưới": "婚礼",
+            "chú": "叔叔",
+            "bố": "爸爸",
+            "quê": "家乡",
+            "chơi": "玩",
+            "ngày": "天",
+            "ấn tượng": "印象",
+            "Hồ Hoàn Kiếm": "还剑湖",
+            "nơi": "地方",
+            "truyền thuyết": "传说",
+            "nổi tiếng": "著名",
+            "vua": "国王",
+            "Lê Lợi": "黎利",
+            "Hồ Gươm": "剑湖",
+            "buổi chiều": "下午",
+            "thu": "秋",
+            "mát mẻ": "凉爽",
+            "Thời tiết": "天气",
+            "dễ chịu": "舒适",
+            "gió": "风",
+            "se lạnh": "微凉",
+            "mùi": "气味",
+            "hoa sữa": "奶花",
+            "thơm": "香",
+            "nhẹ nhàng": "轻柔",
+            "bay": "飘",
+            "không khí": "空气",
+            "trung tâm": "中心",
+            "thành phố": "城市",
+            "xa": "远",
+            "mặt hồ": "湖面",
+            "phẳng lặng": "平静",
+            "tấm gương": "镜子",
+            "khổng lồ": "巨大",
+            "phản chiếu": "倒映",
+            "hình ảnh": "形象",
+            "hàng cây": "树行",
+            "cổ thụ": "古树",
+            "rặng liễu": "柳树",
+            "xanh mát": "翠绿",
+            "Nước": "水",
+            "trong xanh": "清澈",
+            "thi thoảng": "偶尔",
+            "cá": "鱼",
+            "đớp": "咬",
+            "vòng tròn": "圆圈",
+            "nhỏ": "小",
+            "lá": "叶子",
+            "vàng": "黄",
+            "rơi": "落",
+            "khung cảnh": "景色",
+            "yên bình": "宁静",
+            "đẹp mắt": "美观",
+            "Tháp Rùa": "龟塔",
+            "cổ kính": "古老",
+            "mảng": "片",
+            "rêu phong": "苔藓",
+            "chứng kiến": "见证",
+            "thay đổi": "变化",
+            "lịch sử": "历史",
+            "đền Ngọc Sơn": "玉山祠",
+            "cầu Thê Húc": "栖旭桥",
+            "màu đỏ": "红色",
+            "nổi bật": "突出",
+            "Tháp Bút": "笔塔",
+            "Đài Nghiên": "砚台",
+            "công trình": "工程",
+            "thể hiện": "体现",
+            "tinh thần": "精神",
+            "hiếu học": "好学",
+            "người": "人",
+            "Việt Nam": "越南",
+            "dạo chơi": "散步",
+            "may mắn": "幸运",
+            "gặp": "遇见",
+            "cụ già": "老人",
+            "đời": "辈子",
+            "kể": "讲述",
+            "câu chuyện": "故事",
+            "thú vị": "有趣",
+            "vui": "开心",
+            "hiểu biết": "了解",
+            "mảnh đất": "土地",
+            "con đường": "道路",
+            "ven": "沿",
+            "đi dạo": "散步",
+            "cặp đôi": "情侣",
+            "trò chuyện": "聊天",
+            "gia đình": "家庭",
+            "tập thể dục": "锻炼",
+            "nhộn nhịp": "热闹",
+            "vui vẻ": "快乐",
+            "ấm áp": "温暖",
+            "Chuyến": "趟",
+            "kỷ niệm": "纪念",
+            "sâu sắc": "深刻",
+            "hiện đại": "现代",
+            "lưu giữ": "保留",
+            "vẻ đẹp": "美",
+            "hoài niệm": "怀念",
+            "ghé": "造访",
+            "bạn": "你",
+            "quên": "忘记",
+            "cảm nhận": "感受",
+            "thơ mộng": "诗意",
+            "trải nghiệm": "体验",
+            "khó quên": "难忘",
+            "đặt chân": "踏足"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai ngữ pháp?",
+                "options": [
+                    "Mùa hè vừa rồi, em đã cùng bố về quê chơi.",
+                    "Hồ Hoàn Kiếm nằm ngay ở trung tâm thành phố.",
+                    "Vì cha mẹ đã vào miền Nam sinh sống từ lâu nên em rất ít khi có dịp về thăm.",
+                    "Cụ già kể cho em nghe nhiều câu chuyện thú vị về lịch sử của hồ, điều đó làm em thấy rất vui."
+                ],
+                "correct": "Cụ già kể cho em nghe nhiều câu chuyện thú vị về lịch sử của hồ, điều đó làm em thấy rất vui."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai ngữ pháp?",
+                "options": [
+                    "Em và bố đến thăm Hồ Gươm vào một buổi chiều thu mát mẻ.",
+                    "Những chiếc lá vàng rơi xuống mặt nước khiến khung cảnh trở nên thật yên bình.",
+                    "Tháp Rùa cổ kính với những mảng rêu phong, chứng kiến biết bao thay đổi của lịch sử.",
+                    "Nếu có dịp ghé thăm Hà Nội, bạn đừng quên một lần đến Hồ Hoàn Kiếm."
+                ],
+                "correct": "Tháp Rùa cổ kính với những mảng rêu phong, chứng kiến biết bao thay đổi của lịch sử."
+            },
+            {
+                "question": "Nhân vật chính trong bài đọc đã cùng ai về thăm quê ở Hà Nội?",
+                "options": [
+                    "Cùng mẹ",
+                    "Cùng bố",
+                    "Cùng chú",
+                    "Cùng bạn bè"
+                ],
+                "correct": "Cùng bố"
+            },
+            {
+                "question": "Công trình nào được nhắc đến trong bài là nơi thể hiện tinh thần hiếu học của người Việt Nam?",
+                "options": [
+                    "Đền Ngọc Sơn và cầu Thê Húc",
+                    "Tháp Rùa và đền Ngọc Sơn",
+                    "Tháp Bút và Đài Nghiên",
+                    "Hồ Hoàn Kiếm và Tháp Rùa"
+                ],
+                "correct": "Tháp Bút và Đài Nghiên"
+            },
+            {
+                "question": "Thời tiết ở Hà Nội vào buổi chiều nhân vật chính đến thăm Hồ Gươm như thế nào?",
+                "options": [
+                    "Nắng nóng gay gắt và oi ả",
+                    "Mát mẻ, có gió se lạnh và mùi hoa sữa",
+                    "Mưa phùn và gió lạnh buốt",
+                    "Nóng ẩm và có nhiều sương mù"
+                ],
+                "correct": "Mát mẻ, có gió se lạnh và mùi hoa sữa"
+            },
+            {
+                "question": "Hoạt động nào của con người được tác giả miêu tả khi dạo quanh con đường ven hồ?",
+                "options": [
+                    "Mọi người đang câu cá và trò chuyện",
+                    "Các cụ già đang tập thể dục và gia đình đi chơi",
+                    "Học sinh đang chụp ảnh và vẽ tranh",
+                    "Người dân đang bán hàng và đi dạo"
+                ],
+                "correct": "Các cụ già đang tập thể dục và gia đình đi chơi"
+            },
+            {
+                "question": "Hình ảnh mặt hồ phẳng lặng trong bài đọc được so sánh với vật gì?",
+                "options": [
+                    "Một tấm gương khổng lồ",
+                    "Một dải lụa xanh",
+                    "Một bức tranh thủy mặc",
+                    "Một viên ngọc quý"
+                ],
+                "correct": "Một tấm gương khổng lồ"
+            },
+            {
+                "question": "Từ “nơi” trong câu “Hồ Hoàn Kiếm nằm ngay ở trung tâm thành phố” có thể được hiểu là gì?",
+                "options": [
+                    "Địa điểm cụ thể của Hồ Hoàn Kiếm",
+                    "Thủ đô Hà Nội",
+                    "Miền Nam Việt Nam",
+                    "Đền Ngọc Sơn"
+                ],
+                "correct": "Địa điểm cụ thể của Hồ Hoàn Kiếm"
+            },
+            {
+                "question": "Từ “đó” trong câu “điều đó làm em thấy rất vui và thêm hiểu biết về mảnh đất này” thay thế cho nội dung nào?",
+                "options": [
+                    "Việc gặp một cụ già ở Hà Nội",
+                    "Việc đi dạo quanh hồ cùng bố",
+                    "Việc cụ già kể cho em nghe nhiều câu chuyện lịch sử",
+                    "Việc ngắm nhìn Tháp Rùa cổ kính"
+                ],
+                "correct": "Việc cụ già kể cho em nghe nhiều câu chuyện lịch sử"
+            },
+            {
+                "question": "Từ “cổ kính” trong bài đọc có thể được thay thế bằng từ nào dưới đây?",
+                "options": [
+                    "Hiện đại",
+                    "Cũ kỹ",
+                    "Lâu đời",
+                    "Mới lạ"
+                ],
+                "correct": "Lâu đời"
+            },
+            {
+                "question": "Theo bài đọc, lý do nhân vật chính ít khi về thăm Hà Nội là gì?",
+                "options": [
+                    "Vì Hà Nội quá xa xôi",
+                    "Vì cha mẹ đã vào miền Nam sinh sống từ lâu",
+                    "Vì nhân vật chính không thích thời tiết ở Hà Nội",
+                    "Vì công việc học tập bận rộn"
+                ],
+                "correct": "Vì cha mẹ đã vào miền Nam sinh sống từ lâu"
+            },
+            {
+                "question": "Cụm từ “mảnh đất này” trong đoạn văn cuối cùng dùng để chỉ đối tượng nào?",
+                "options": [
+                    "Miền Nam",
+                    "Hà Nội",
+                    "Đền Ngọc Sơn",
+                    "Hồ Hoàn Kiếm"
+                ],
+                "correct": "Hà Nội"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
