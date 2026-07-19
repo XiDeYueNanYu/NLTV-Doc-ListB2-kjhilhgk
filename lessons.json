@@ -1640,5 +1640,252 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Người ông kính yêu của em",
+        "text": "Trong trái tim em, ông nội luôn là người quan trọng nhất. Ông tên là Trần Văn Nam, năm nay đã ngoài bảy mươi tuổi. Dù thời gian đã làm mái tóc ông bạc trắng và khuôn mặt xuất hiện nhiều nếp nhăn, nhưng ánh mắt ông vẫn rất tinh anh và nụ cười thì luôn hiền hậu. Với em, ông không chỉ là một người thân trong gia đình mà còn là người bạn, người thầy lớn mà em vô cùng yêu quý và kính trọng.\n\nDáng người ông không cao lớn mà hơi gầy, lưng đã hơi còng xuống sau nhiều năm lao động vất vả. Bước chân ông chậm rãi, khoan thai, thể hiện sự điềm tĩnh của một người đã trải qua nhiều thăng trầm trong cuộc sống. Làn da ông ngăm đen, chai sạn với những vết đồi mồi, đó là minh chứng cho bao nắng mưa mà ông đã trải qua để chăm sóc cho gia đình. Dù đôi bàn tay ông thô ráp nhưng lại rất khéo léo. Chính đôi bàn tay ấy đã dạy em tập viết, gọt bút chì và chăm sóc vườn cây nhỏ sau nhà.\n\nÔng là người rất hiền lành, điềm đạm và ít khi nổi nóng. Ông có sự kiên nhẫn đáng kinh ngạc, luôn lắng nghe những câu chuyện của em và nhẹ nhàng chỉ bảo những điều hay lẽ phải. Giọng nói của ông trầm ấm, kể chuyện rất hay, khiến em luôn say mê lắng nghe. Mỗi buổi tối, ông thường dành thời gian dạy em học bài hoặc kể cho em nghe những câu chuyện cổ tích thú vị. Nhờ có ông, tuổi thơ của em trở nên ý nghĩa và ấm áp hơn rất nhiều.\n\nSở thích của ông là chăm sóc vườn cây cảnh nhỏ sau nhà. Sáng nào ông cũng dậy sớm để tưới nước, tỉa cành, rồi ngồi nhâm nhi chén trà nóng và đọc báo. Những lúc rảnh rỗi, ông thường chơi cờ tướng với các bác hàng xóm. Em thích nhất là những buổi chiều ngồi bên ông, nghe ông kể về ngày xưa. Những khoảnh khắc ấy thật bình yên và đáng quý. \n\nÔng nội là chỗ dựa tinh thần vững chắc của em. Em luôn hứa sẽ cố gắng học tập thật tốt để ông vui lòng và tự hào. Em chỉ mong ông luôn khỏe mạnh, sống thật lâu bên cạnh con cháu để gia đình mình mãi hạnh phúc như bây giờ. Em rất yêu ông.",
+        "dictionary": {
+            "trái tim": "心脏",
+            "em": "我",
+            "ông nội": "爷爷",
+            "người": "人",
+            "quan trọng": "重要",
+            "tên": "名字",
+            "Trần Văn Nam": "陈文南",
+            "năm": "年",
+            "ngoài": "超过",
+            "bảy mươi": "七十",
+            "tuổi": "岁",
+            "thời gian": "时间",
+            "làm": "使",
+            "mái tóc": "头发",
+            "bạc trắng": "花白",
+            "khuôn mặt": "脸庞",
+            "xuất hiện": "出现",
+            "nếp nhăn": "皱纹",
+            "ánh mắt": "眼神",
+            "tinh anh": "敏锐",
+            "nụ cười": "笑容",
+            "hiền hậu": "慈祥",
+            "thân": "亲人",
+            "gia đình": "家庭",
+            "bạn": "朋友",
+            "thầy": "老师",
+            "lớn": "大",
+            "yêu quý": "喜爱",
+            "kính trọng": "尊敬",
+            "dáng người": "身材",
+            "cao lớn": "高大",
+            "gầy": "瘦",
+            "lưng": "背",
+            "còng": "驼",
+            "lao động": "劳动",
+            "vất vả": "辛苦",
+            "bước chân": "脚步",
+            "chậm rãi": "缓慢",
+            "khoan thai": "从容",
+            "thể hiện": "体现",
+            "điềm tĩnh": "沉稳",
+            "trải qua": "经历",
+            "thăng trầm": "起伏",
+            "cuộc sống": "生活",
+            "làn da": "皮肤",
+            "ngăm đen": "黝黑",
+            "chai sạn": "粗糙",
+            "vết đồi mồi": "老年斑",
+            "minh chứng": "见证",
+            "nắng mưa": "风雨",
+            "chăm sóc": "照顾",
+            "đôi bàn tay": "双手",
+            "thô ráp": "粗糙",
+            "khéo léo": "灵巧",
+            "dạy": "教",
+            "viết": "写",
+            "gọt": "削",
+            "bút chì": "铅笔",
+            "vườn cây": "花园",
+            "nhà": "家",
+            "hiền lành": "善良",
+            "điềm đạm": "温和",
+            "nổi nóng": "发火",
+            "kiên nhẫn": "耐心",
+            "đáng kinh ngạc": "惊人",
+            "lắng nghe": "倾听",
+            "câu chuyện": "故事",
+            "nhẹ nhàng": "轻柔",
+            "chỉ bảo": "教导",
+            "điều hay lẽ phải": "道理",
+            "giọng nói": "声音",
+            "trầm ấm": "低沉温暖",
+            "kể": "讲述",
+            "say mê": "着迷",
+            "buổi tối": "晚上",
+            "dành": "花费",
+            "học bài": "学习",
+            "cổ tích": "童话",
+            "thú vị": "有趣",
+            "tuổi thơ": "童年",
+            "ý nghĩa": "有意义",
+            "ấm áp": "温暖",
+            "sở thích": "爱好",
+            "cây cảnh": "盆景",
+            "sáng": "早晨",
+            "dậy": "起床",
+            "sớm": "早",
+            "tưới nước": "浇水",
+            "tỉa cành": "修剪枝叶",
+            "ngồi": "坐",
+            "nhâm nhi": "品尝",
+            "chén trà": "茶杯",
+            "nóng": "热",
+            "đọc báo": "看报",
+            "rảnh rỗi": "空闲",
+            "chơi": "玩",
+            "cờ tướng": "象棋",
+            "bác": "伯伯",
+            "hàng xóm": "邻居",
+            "chiều": "下午",
+            "ngày xưa": "过去",
+            "khoảnh khắc": "瞬间",
+            "bình yên": "平静",
+            "đáng quý": "珍贵",
+            "chỗ dựa": "依靠",
+            "tinh thần": "精神",
+            "vững chắc": "稳固",
+            "hứa": "承诺",
+            "cố gắng": "努力",
+            "vui lòng": "高兴",
+            "tự hào": "自豪",
+            "mong": "希望",
+            "khỏe mạnh": "健康",
+            "sống": "生活",
+            "lâu": "久",
+            "con cháu": "子孙",
+            "hạnh phúc": "幸福"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về ngữ pháp?",
+                "options": [
+                    "Ông nội là người quan trọng nhất trong trái tim em.",
+                    "Dù mái tóc ông bạc trắng, nhưng ánh mắt ông vẫn rất tinh anh.",
+                    "Ông là người hiền lành, điềm đạm và ít khi nổi nóng.",
+                    "Dáng người ông không cao lớn mà hơi gầy, lưng đã hơi còng xuống sau nhiều năm lao động vất vả."
+                ],
+                "correct": "Dù mái tóc ông bạc trắng, nhưng ánh mắt ông vẫn rất tinh anh."
+            },
+            {
+                "question": "Ông nội của nhân vật “em” tên là gì?",
+                "options": [
+                    "Trần Văn Nam",
+                    "Trần Văn Năng",
+                    "Trần Văn Năm",
+                    "Trần Văn Nâm"
+                ],
+                "correct": "Trần Văn Nam"
+            },
+            {
+                "question": "Ông nội thường làm gì vào mỗi buổi sáng?",
+                "options": [
+                    "Tưới nước, tỉa cành, nhâm nhi chén trà nóng và đọc báo",
+                    "Dạy em học bài và kể chuyện cổ tích",
+                    "Chơi cờ tướng với các bác hàng xóm",
+                    "Chăm sóc vườn cây và đi dạo cùng em"
+                ],
+                "correct": "Tưới nước, tỉa cành, nhâm nhi chén trà nóng và đọc báo"
+            },
+            {
+                "question": "Theo bài đọc, đôi bàn tay của ông có đặc điểm gì?",
+                "options": [
+                    "Thô ráp nhưng rất khéo léo",
+                    "Mềm mại và đầy vết đồi mồi",
+                    "Nhăn nheo và không còn cầm nắm được đồ vật",
+                    "Gầy gò và luôn run rẩy"
+                ],
+                "correct": "Thô ráp nhưng rất khéo léo"
+            },
+            {
+                "question": "Từ “tinh anh” trong đoạn một có thể được hiểu là gì?",
+                "options": [
+                    "Sự sáng suốt, nhanh nhẹn và thông tuệ",
+                    "Sự già nua, mệt mỏi và yếu ớt",
+                    "Sự hiền hậu, bao dung và nhân từ",
+                    "Sự nghiêm khắc, khó tính và khắt khe"
+                ],
+                "correct": "Sự sáng suốt, nhanh nhẹn và thông tuệ"
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về ngữ pháp?",
+                "options": [
+                    "Ông nội luôn là chỗ dựa tinh thần vững chắc của em.",
+                    "Nhờ có ông, tuổi thơ của em trở nên ý nghĩa hơn.",
+                    "Ông là người thầy lớn mà em vô cùng yêu quý và kính trọng.",
+                    "Vì ông là người hiền lành cho nên ông rất ít khi nổi nóng."
+                ],
+                "correct": "Vì ông là người hiền lành cho nên ông rất ít khi nổi nóng."
+            },
+            {
+                "question": "Ai là người đã dạy nhân vật “em” tập viết và gọt bút chì?",
+                "options": [
+                    "Ông nội",
+                    "Cha của em",
+                    "Mẹ của em",
+                    "Các bác hàng xóm"
+                ],
+                "correct": "Ông nội"
+            },
+            {
+                "question": "Tính cách của ông nội được mô tả như thế nào trong bài?",
+                "options": [
+                    "Hiền lành, điềm đạm và kiên nhẫn",
+                    "Nghiêm khắc, nóng tính và gia trưởng",
+                    "Vui vẻ, hoạt bát và hay nói đùa",
+                    "Trầm tính, ít nói và hay cáu gắt"
+                ],
+                "correct": "Hiền lành, điềm đạm và kiên nhẫn"
+            },
+            {
+                "question": "Cụm từ “chỗ dựa tinh thần” trong đoạn cuối có thể được thay thế bằng từ nào dưới đây?",
+                "options": [
+                    "Điểm tựa tâm hồn",
+                    "Nơi chứa đựng kỷ niệm",
+                    "Người bạn đồng hành",
+                    "Người thầy dạy dỗ"
+                ],
+                "correct": "Điểm tựa tâm hồn"
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về ngữ pháp?",
+                "options": [
+                    "Mỗi buổi tối, ông thường dành thời gian dạy em học bài.",
+                    "Ông nội là người quan trọng nhất trong trái tim em.",
+                    "Dáng người ông không cao lớn mà hơi gầy, lưng đã hơi còng.",
+                    "Ông có sự kiên nhẫn đáng kinh ngạc, luôn lắng nghe những câu chuyện của em."
+                ],
+                "correct": "Dáng người ông không cao lớn mà hơi gầy, lưng đã hơi còng."
+            },
+            {
+                "question": "Ông nội thường chơi cờ tướng với ai?",
+                "options": [
+                    "Các bác hàng xóm",
+                    "Nhân vật “em”",
+                    "Những người bạn cũ",
+                    "Ông không chơi cờ tướng"
+                ],
+                "correct": "Các bác hàng xóm"
+            },
+            {
+                "question": "Tại sao làn da của ông lại ngăm đen và chai sạn?",
+                "options": [
+                    "Vì nắng mưa ông đã trải qua để chăm sóc gia đình",
+                    "Vì ông thường xuyên làm việc trong nhà",
+                    "Vì ông bị bệnh ngoài da sau nhiều năm",
+                    "Vì ông thích phơi nắng mỗi buổi sáng"
+                ],
+                "correct": "Vì nắng mưa ông đã trải qua để chăm sóc gia đình"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
