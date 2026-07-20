@@ -1887,5 +1887,241 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Những vất vả trong công việc của tài xế xe buýt",
+        "text": "Nghề lái xe buýt ở thành phố lớn là một công việc rất vất vả và nhiều áp lực. Những người tài xế phải đối mặt với tình trạng giao thông đông đúc, thời gian làm việc kéo dài và sự an toàn của hành khách trên xe. Mỗi ngày, họ thường phải làm việc từ chín đến mười tiếng đồng hồ. Họ bắt đầu công việc từ rất sớm khi trời còn tối và chỉ trở về nhà khi vợ con đã ngủ say. Vì thế, họ có rất ít thời gian để quan tâm đến gia đình.\n\nÁp lực lớn nhất đối với tài xế xe buýt là thời gian. Các chuyến xe phải xuất bến và đến trạm đúng theo lịch trình đã quy định. Nếu về bến trễ mà không có lý do chính đáng, tài xế sẽ bị phạt tiền. Ngược lại, nếu về sớm hơn quy định, họ cũng bị phạt vì bị cho là đã bỏ trạm dọc đường. Chính vì những quy định nghiêm ngặt này, nhiều tài xế không dám ăn uống thoải mái hay đi vệ sinh vì sợ trễ giờ. Họ phải luôn tập trung cao độ khi lái xe trên đường phố đông đúc để đảm bảo an toàn.\n\nNgoài áp lực về thời gian, các tài xế còn phải đối mặt với nhiều nguy hiểm. Nhiều người tham gia giao thông có ý thức chưa tốt, thường xuyên chen lấn hoặc tạt đầu xe buýt khiến tài xế phải phanh gấp. Khi xảy ra sự cố, tài xế là người chịu trách nhiệm đầu tiên. Bên cạnh đó, những ngày mưa ngập nước cũng là nỗi lo lớn. Nếu xe bị hư hỏng do ngập, tài xế phải tự bỏ tiền túi để sửa chữa. Ngoài ra, họ còn có thể bị phạt nặng nếu đỗ xe không sát lề đường tại các trạm dừng.\n\nMức lương của tài xế xe buýt hiện nay không quá cao so với cường độ làm việc vất vả. Nếu bị phạt một hoặc hai lần trong tháng, họ có thể mất đi thu nhập của cả một tuần làm việc. Dù gặp nhiều khó khăn, những người tài xế vẫn hằng ngày cố gắng hoàn thành công việc của mình để phục vụ nhu cầu đi lại của mọi người. Hiểu được những khó khăn này, chúng ta cần thông cảm và tôn trọng hơn đối với công việc của họ khi tham gia giao thông trên đường phố mỗi ngày.",
+        "dictionary": {
+            "nghề": "职业",
+            "lái xe": "驾驶",
+            "xe buýt": "公交车",
+            "thành phố": "城市",
+            "lớn": "大",
+            "công việc": "工作",
+            "vất vả": "辛苦",
+            "áp lực": "压力",
+            "người": "人",
+            "tài xế": "司机",
+            "đối mặt": "面对",
+            "tình trạng": "状况",
+            "giao thông": "交通",
+            "đông đúc": "拥挤",
+            "thời gian": "时间",
+            "làm việc": "工作",
+            "kéo dài": "延长",
+            "an toàn": "安全",
+            "hành khách": "乘客",
+            "xe": "车",
+            "ngày": "天",
+            "chín": "九",
+            "mười": "十",
+            "tiếng đồng hồ": "小时",
+            "bắt đầu": "开始",
+            "sớm": "早",
+            "trời": "天",
+            "tối": "黑",
+            "trở về": "返回",
+            "nhà": "家",
+            "vợ": "妻子",
+            "con": "孩子",
+            "ngủ": "睡",
+            "say": "沉",
+            "quan tâm": "关心",
+            "gia đình": "家庭",
+            "chuyến": "趟",
+            "xuất bến": "发车",
+            "trạm": "站",
+            "lịch trình": "时刻表",
+            "quy định": "规定",
+            "trễ": "迟",
+            "lý do": "理由",
+            "chính đáng": "正当",
+            "phạt": "罚款",
+            "tiền": "钱",
+            "ngược lại": "相反",
+            "bỏ": "丢弃",
+            "dọc đường": "沿途",
+            "nghiêm ngặt": "严格",
+            "dám": "敢",
+            "ăn uống": "饮食",
+            "thoải mái": "舒适",
+            "đi vệ sinh": "上厕所",
+            "sợ": "怕",
+            "tập trung": "集中",
+            "cao độ": "高度",
+            "đường phố": "街道",
+            "đảm bảo": "确保",
+            "nguy hiểm": "危险",
+            "tham gia": "参与",
+            "ý thức": "意识",
+            "tốt": "好",
+            "thường xuyên": "经常",
+            "chen lấn": "拥挤",
+            "tạt đầu": "加塞",
+            "phanh": "刹车",
+            "gấp": "急",
+            "xảy ra": "发生",
+            "sự cố": "事故",
+            "chịu": "承担",
+            "trách nhiệm": "责任",
+            "đầu tiên": "首先",
+            "mưa": "雨",
+            "ngập": "淹没",
+            "nước": "水",
+            "nỗi lo": "担忧",
+            "hư hỏng": "损坏",
+            "túi": "口袋",
+            "sửa chữa": "修理",
+            "nặng": "重",
+            "đỗ": "停",
+            "sát": "靠近",
+            "lề đường": "路边",
+            "dừng": "停靠",
+            "mức lương": "工资水平",
+            "hiện nay": "目前",
+            "cao": "高",
+            "cường độ": "强度",
+            "tháng": "月",
+            "mất": "失去",
+            "thu nhập": "收入",
+            "tuần": "周",
+            "khó khăn": "困难",
+            "hằng ngày": "每天",
+            "cố gắng": "努力",
+            "hoàn thành": "完成",
+            "phục vụ": "服务",
+            "nhu cầu": "需求",
+            "đi lại": "出行",
+            "mọi người": "大家",
+            "hiểu": "理解",
+            "chúng ta": "我们",
+            "cần": "需要",
+            "thông cảm": "体谅",
+            "tôn trọng": "尊重"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai ngữ pháp?",
+                "options": [
+                    "Tài xế xe buýt phải đối mặt với tình trạng giao thông đông đúc và áp lực thời gian.",
+                    "Vì những quy định nghiêm ngặt, nên nhiều tài xế không dám ăn uống thoải mái.",
+                    "Mỗi ngày, họ làm việc từ chín đến mười tiếng đồng hồ.",
+                    "Chúng ta cần thông cảm và tôn trọng công việc của tài xế xe buýt."
+                ],
+                "correct": "Vì những quy định nghiêm ngặt, nên nhiều tài xế không dám ăn uống thoải mái."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai ngữ pháp?",
+                "options": [
+                    "Tài xế là người chịu trách nhiệm đầu tiên khi xảy ra sự cố.",
+                    "Họ bắt đầu công việc từ rất sớm khi trời còn tối.",
+                    "Khi xe bị hư hỏng do ngập, tài xế phải tự bỏ tiền túi để sửa chữa.",
+                    "Dù gặp nhiều khó khăn, nhưng những người tài xế vẫn hằng ngày cố gắng hoàn thành công việc."
+                ],
+                "correct": "Dù gặp nhiều khó khăn, nhưng những người tài xế vẫn hằng ngày cố gắng hoàn thành công việc."
+            },
+            {
+                "question": "Tài xế xe buýt thường bắt đầu công việc vào thời điểm nào?",
+                "options": [
+                    "Khi trời đã sáng rõ",
+                    "Khi trời còn tối",
+                    "Khi hành khách đã lên xe",
+                    "Khi vợ con đã ngủ say"
+                ],
+                "correct": "Khi trời còn tối"
+            },
+            {
+                "question": "Tài xế xe buýt sẽ bị phạt tiền trong trường hợp nào dưới đây?",
+                "options": [
+                    "Về bến trễ mà không có lý do chính đáng",
+                    "Tập trung cao độ khi lái xe",
+                    "Đỗ xe sát lề đường tại các trạm dừng",
+                    "Phục vụ nhu cầu đi lại của mọi người"
+                ],
+                "correct": "Về bến trễ mà không có lý do chính đáng"
+            },
+            {
+                "question": "Theo văn bản, tài xế xe buýt phải tự bỏ tiền túi để sửa chữa khi nào?",
+                "options": [
+                    "Khi xe bị phạt vì đỗ không sát lề đường",
+                    "Khi xe bị hư hỏng do ngập nước",
+                    "Khi xe bị trễ giờ xuất bến",
+                    "Khi hành khách phàn nàn về thái độ phục vụ"
+                ],
+                "correct": "Khi xe bị hư hỏng do ngập nước"
+            },
+            {
+                "question": "Trạng thái của các tài xế xe buýt khi lái xe trên đường phố đông đúc là gì?",
+                "options": [
+                    "Thoải mái ăn uống",
+                    "Tập trung cao độ",
+                    "Lơ là cảnh giác",
+                    "Nghỉ ngơi thư giãn"
+                ],
+                "correct": "Tập trung cao độ"
+            },
+            {
+                "question": "Tại sao nhiều tài xế không dám ăn uống thoải mái hay đi vệ sinh?",
+                "options": [
+                    "Vì họ không cảm thấy đói hay khát",
+                    "Vì sợ trễ giờ theo lịch trình quy định",
+                    "Vì họ muốn tiết kiệm tiền lương",
+                    "Vì họ không có thời gian để nấu ăn"
+                ],
+                "correct": "Vì sợ trễ giờ theo lịch trình quy định"
+            },
+            {
+                "question": "Đặc điểm của công việc lái xe buýt tại thành phố lớn được mô tả như thế nào?",
+                "options": [
+                    "Nhàn hạ và thu nhập rất cao",
+                    "Vất vả và nhiều áp lực",
+                    "An toàn và ít khi gặp sự cố",
+                    "Thời gian làm việc ngắn và linh hoạt"
+                ],
+                "correct": "Vất vả và nhiều áp lực"
+            },
+            {
+                "question": "Từ “họ” trong câu “Họ bắt đầu công việc từ rất sớm khi trời còn tối và chỉ trở về nhà khi vợ con đã ngủ say” dùng để chỉ đối tượng nào?",
+                "options": [
+                    "Những người tham gia giao thông",
+                    "Những người tài xế xe buýt",
+                    "Những hành khách trên xe",
+                    "Những người sửa chữa xe"
+                ],
+                "correct": "Những người tài xế xe buýt"
+            },
+            {
+                "question": "Trong bài đọc, từ “áp lực” có thể được hiểu là gì?",
+                "options": [
+                    "Sự thoải mái khi làm việc",
+                    "Những khó khăn, căng thẳng gây ra bởi công việc",
+                    "Sự hỗ trợ từ phía gia đình",
+                    "Sự khen thưởng từ công ty vận tải"
+                ],
+                "correct": "Những khó khăn, căng thẳng gây ra bởi công việc"
+            },
+            {
+                "question": "Từ “cường độ” trong cụm từ “cường độ làm việc vất vả” có thể được thay thế bằng từ nào dưới đây?",
+                "options": [
+                    "Mức độ làm việc",
+                    "Thời gian rảnh rỗi",
+                    "Sự yêu thích công việc",
+                    "Lương bổng hàng tháng"
+                ],
+                "correct": "Mức độ làm việc"
+            },
+            {
+                "question": "Từ “nghiêm ngặt” trong đoạn văn có thể được hiểu là gì?",
+                "options": [
+                    "Lỏng lẻo, dễ dàng thay đổi",
+                    "Rất khắt khe và đòi hỏi tuân thủ chặt chẽ",
+                    "Không quan trọng và có thể bỏ qua",
+                    "Mang tính chất tự nguyện"
+                ],
+                "correct": "Rất khắt khe và đòi hỏi tuân thủ chặt chẽ"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
