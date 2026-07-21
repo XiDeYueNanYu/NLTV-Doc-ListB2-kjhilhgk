@@ -2123,5 +2123,237 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Văn hóa ngủ trưa và không gian nghỉ ngơi tại công sở",
+        "text": "Lần đầu tiên thấy tôi ôm gối chợp mắt khoảng 15 phút trong giờ nghỉ trưa ngay tại bàn làm việc, đồng nghiệp của tôi rất ngạc nhiên. John, người ngồi kế bên, cho biết ở Mỹ quê hương anh, mọi người gần như không có thói quen ngủ trưa. Sau khi ăn, anh thường nghe nhạc hoặc lướt điện thoại để thư giãn. Tôi giải thích với anh rằng đây là thói quen của tôi, nhất là vào những ngày nắng nóng. Tôi thường uống một cốc cà phê nhỏ rồi ngủ ngắn. Cách này giúp tôi tỉnh táo, giảm mệt mỏi và làm việc hiệu quả hơn vào buổi chiều. Sau một thời gian, John cũng làm theo và cảm thấy đôi mắt đỡ mỏi hơn rất nhiều.\n\nTrên thế giới, ngủ trưa là thói quen phổ biến ở nhiều quốc gia, đặc biệt là nơi có khí hậu nóng. Người Tây Ban Nha có văn hóa ngủ trưa rất nổi tiếng, người Italy cũng thường nghỉ ngơi vào buổi trưa. Tuy nhiên, tại nhiều nước phương Tây, ngủ trưa ở công sở vẫn chưa phổ biến vì nhiều lý do. Dù vậy, xu hướng này đang dần thay đổi khi các công ty công nghệ lớn như Google hay Facebook bắt đầu quan tâm đến sức khỏe nhân viên. Họ cung cấp không gian nghỉ ngơi, thậm chí có cả ghế ngủ tại văn phòng. Các nghiên cứu cho thấy thiếu ngủ ảnh hưởng lớn đến sức khỏe và năng suất làm việc. Hiện nay, nhiều người trẻ cũng mong muốn có môi trường làm việc thoải mái để giảm bớt căng thẳng.\n\nTại Việt Nam, hình ảnh nhân viên công sở ngủ gục trên bàn làm việc rất phổ biến. Vì không gian hạn chế, họ gặp nhiều khó khăn để có một giấc ngủ trưa thoải mái. Điều này không chỉ ảnh hưởng đến sức khỏe mà còn làm giảm mỹ quan nơi làm việc. Vì vậy, các doanh nghiệp nên thiết kế khu vực nghỉ trưa riêng biệt. Nếu công ty chưa có điều kiện xây dựng phòng riêng, hãy trang bị cho nhân viên ghế nằm, chăn và gối để họ nghỉ ngơi tốt hơn. Các công ty cũng có thể tận dụng phòng họp trống để làm nơi nghỉ trưa. Quan tâm đến giấc ngủ của nhân viên là cách tốt nhất để doanh nghiệp nâng cao năng suất và giữ chân người tài trong môi trường cạnh tranh như hiện nay. Một giấc ngủ ngắn chất lượng sẽ giúp nhân viên có tinh thần tốt nhất để bắt đầu công việc chiều.",
+        "dictionary": {
+            "lần": "次",
+            "đầu": "初",
+            "tôi": "我",
+            "gối": "枕头",
+            "chợp mắt": "小睡",
+            "phút": "分钟",
+            "giờ": "时间",
+            "nghỉ trưa": "午休",
+            "bàn": "桌子",
+            "làm việc": "工作",
+            "đồng nghiệp": "同事",
+            "ngạc nhiên": "惊讶",
+            "John": "约翰",
+            "người": "人",
+            "bên": "旁边",
+            "Mỹ": "美国",
+            "quê hương": "家乡",
+            "anh": "他",
+            "mọi người": "大家",
+            "thói quen": "习惯",
+            "ngủ trưa": "午睡",
+            "ăn": "吃",
+            "nhạc": "音乐",
+            "điện thoại": "手机",
+            "thư giãn": "放松",
+            "giải thích": "解释",
+            "ngày": "天",
+            "nắng nóng": "炎热",
+            "uống": "喝",
+            "cốc": "杯",
+            "cà phê": "咖啡",
+            "ngủ": "睡",
+            "ngắn": "短",
+            "cách": "方法",
+            "tỉnh táo": "清醒",
+            "giảm": "减少",
+            "mệt mỏi": "疲劳",
+            "hiệu quả": "有效",
+            "chiều": "下午",
+            "thời gian": "时间",
+            "đôi mắt": "双眼",
+            "đỡ": "减轻",
+            "thế giới": "世界",
+            "phổ biến": "普遍",
+            "quốc gia": "国家",
+            "khí hậu": "气候",
+            "nóng": "热",
+            "Tây Ban Nha": "西班牙",
+            "văn hóa": "文化",
+            "nổi tiếng": "著名",
+            "Italy": "意大利",
+            "nghỉ ngơi": "休息",
+            "nước": "国家",
+            "phương Tây": "西方",
+            "công sở": "办公室",
+            "lý do": "理由",
+            "xu hướng": "趋势",
+            "thay đổi": "改变",
+            "công ty": "公司",
+            "công nghệ": "科技",
+            "Google": "谷歌",
+            "Facebook": "脸书",
+            "quan tâm": "关心",
+            "sức khỏe": "健康",
+            "nhân viên": "员工",
+            "không gian": "空间",
+            "ghế": "椅子",
+            "văn phòng": "办公室",
+            "nghiên cứu": "研究",
+            "thiếu": "缺乏",
+            "ảnh hưởng": "影响",
+            "năng suất": "生产力",
+            "trẻ": "年轻",
+            "môi trường": "环境",
+            "thoải mái": "舒适",
+            "căng thẳng": "压力",
+            "Việt Nam": "越南",
+            "hình ảnh": "形象",
+            "ngủ gục": "趴睡",
+            "hạn chế": "有限",
+            "khó khăn": "困难",
+            "giấc ngủ": "睡眠",
+            "mỹ quan": "美观",
+            "doanh nghiệp": "企业",
+            "thiết kế": "设计",
+            "khu vực": "区域",
+            "riêng biệt": "独立",
+            "điều kiện": "条件",
+            "xây dựng": "建设",
+            "phòng": "房间",
+            "trang bị": "配备",
+            "nằm": "躺",
+            "chăn": "被子",
+            "tận dụng": "利用",
+            "họp": "开会",
+            "trống": "空",
+            "nâng cao": "提高",
+            "giữ chân": "留住",
+            "tài": "人才",
+            "cạnh tranh": "竞争",
+            "chất lượng": "质量",
+            "tinh thần": "精神"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "John thường nghe nhạc hoặc lướt điện thoại sau khi ăn trưa.",
+                    "Ngủ trưa giúp nhân viên tỉnh táo và làm việc hiệu quả hơn.",
+                    "Vì không gian hạn chế, nên họ gặp nhiều khó khăn để có giấc ngủ trưa.",
+                    "Các công ty công nghệ lớn bắt đầu quan tâm đến sức khỏe nhân viên."
+                ],
+                "correct": "Vì không gian hạn chế, nên họ gặp nhiều khó khăn để có giấc ngủ trưa."
+            },
+            {
+                "question": "Theo bài đọc, John đến từ quốc gia nào?",
+                "options": [
+                    "Italy",
+                    "Tây Ban Nha",
+                    "Mỹ",
+                    "Việt Nam"
+                ],
+                "correct": "Mỹ"
+            },
+            {
+                "question": "Tác giả thường làm gì trước khi ngủ trưa?",
+                "options": [
+                    "Nghe nhạc và lướt điện thoại",
+                    "Uống một cốc cà phê nhỏ",
+                    "Đi dạo quanh văn phòng",
+                    "Ăn trưa tại bàn làm việc"
+                ],
+                "correct": "Uống một cốc cà phê nhỏ"
+            },
+            {
+                "question": "Theo văn bản, tại sao ngủ trưa ở công sở phương Tây chưa phổ biến?",
+                "options": [
+                    "Vì nhân viên không muốn nghỉ ngơi",
+                    "Vì văn hóa làm việc không có thói quen ngủ trưa",
+                    "Vì các công ty không cho phép nhân viên ngủ",
+                    "Vì thời tiết ở phương Tây quá lạnh"
+                ],
+                "correct": "Vì văn hóa làm việc không có thói quen ngủ trưa"
+            },
+            {
+                "question": "Đâu là đặc điểm của nhân viên công sở tại Việt Nam khi ngủ trưa được nhắc đến trong bài?",
+                "options": [
+                    "Thường ngủ trên ghế sofa tại phòng nghỉ",
+                    "Ngủ gục trên bàn làm việc",
+                    "Thường về nhà để ngủ trưa",
+                    "Không bao giờ ngủ trưa vì công việc bận rộn"
+                ],
+                "correct": "Ngủ gục trên bàn làm việc"
+            },
+            {
+                "question": "Các công ty công nghệ lớn như Google hay Facebook đang có thay đổi gì?",
+                "options": [
+                    "Cấm nhân viên ngủ trưa để tăng năng suất",
+                    "Cung cấp không gian nghỉ ngơi và ghế ngủ tại văn phòng",
+                    "Yêu cầu nhân viên làm việc thêm giờ vào buổi chiều",
+                    "Giảm thời gian nghỉ trưa để nhân viên về sớm"
+                ],
+                "correct": "Cung cấp không gian nghỉ ngơi và ghế ngủ tại văn phòng"
+            },
+            {
+                "question": "Tác giả cho rằng việc doanh nghiệp quan tâm đến giấc ngủ của nhân viên mang lại lợi ích gì?",
+                "options": [
+                    "Giúp nhân viên làm việc chăm chỉ hơn vào buổi sáng",
+                    "Nâng cao năng suất và giữ chân người tài",
+                    "Giảm chi phí vận hành văn phòng",
+                    "Tăng số lượng nhân viên mới cho công ty"
+                ],
+                "correct": "Nâng cao năng suất và giữ chân người tài"
+            },
+            {
+                "question": "Từ “họ” trong câu “Họ cung cấp không gian nghỉ ngơi, thậm chí có cả ghế ngủ tại văn phòng” dùng để chỉ đối tượng nào?",
+                "options": [
+                    "Các công ty công nghệ lớn",
+                    "Những người trẻ",
+                    "Các nhân viên văn phòng",
+                    "Người Tây Ban Nha và Italy"
+                ],
+                "correct": "Các công ty công nghệ lớn"
+            },
+            {
+                "question": "Cụm từ “giảm mỹ quan” trong bài đọc có thể được hiểu là gì?",
+                "options": [
+                    "Làm tăng vẻ đẹp của không gian làm việc",
+                    "Làm mất đi vẻ đẹp, sự ngăn nắp của nơi làm việc",
+                    "Làm cho văn phòng trở nên hiện đại hơn",
+                    "Làm cho nhân viên cảm thấy thoải mái hơn"
+                ],
+                "correct": "Làm mất đi vẻ đẹp, sự ngăn nắp của nơi làm việc"
+            },
+            {
+                "question": "Trong bốn câu sau, câu nào sai về mặt ngữ pháp?",
+                "options": [
+                    "Ngủ trưa là thói quen phổ biến ở nhiều quốc gia.",
+                    "Các nghiên cứu cho thấy thiếu ngủ ảnh hưởng lớn đến sức khỏe.",
+                    "Doanh nghiệp nên thiết kế khu vực nghỉ trưa riêng biệt cho nhân viên.",
+                    "Vì công ty không có phòng riêng, nhưng họ nên trang bị ghế nằm."
+                ],
+                "correct": "Vì công ty không có phòng riêng, nhưng họ nên trang bị ghế nằm."
+            },
+            {
+                "question": "Theo bài đọc, giải pháp nào được đề xuất nếu công ty không có điều kiện xây dựng phòng nghỉ riêng?",
+                "options": [
+                    "Yêu cầu nhân viên mang theo túi ngủ cá nhân",
+                    "Cho phép nhân viên về nhà ngủ trưa",
+                    "Trang bị ghế nằm, chăn, gối hoặc tận dụng phòng họp trống",
+                    "Tổ chức các buổi họp vào giờ nghỉ trưa"
+                ],
+                "correct": "Trang bị ghế nằm, chăn, gối hoặc tận dụng phòng họp trống"
+            },
+            {
+                "question": "Từ “tận dụng” trong đoạn cuối có thể được thay thế bằng từ nào dưới đây?",
+                "options": [
+                    "Phá bỏ",
+                    "Sử dụng",
+                    "Xây dựng",
+                    "Bỏ trống"
+                ],
+                "correct": "Sử dụng"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
