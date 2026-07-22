@@ -2355,5 +2355,236 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Tầm quan trọng của việc chuẩn bị bài trước khi đến lớp",
+        "text": "Hiện nay, nhiều học sinh có thói quen không chuẩn bị bài mới trước khi đến lớp. Đây là một vấn đề phổ biến cần được giải quyết để cải thiện chất lượng học tập và giúp các bạn học sinh đạt kết quả tốt hơn trong tương lai.\n\nThực tế cho thấy, nhiều bạn học sinh chỉ soạn sách vở vào cặp mà không đọc trước bài mới. Một số người khác thì làm việc này rất qua loa hoặc chỉ làm cho xong vì sợ bị thầy cô kiểm tra. Nhiều bạn học sinh thường nghĩ rằng chỉ cần làm bài tập về nhà là đủ. Tư duy này xuất phát từ sự lười biếng và thói quen dành quá nhiều thời gian cho các hoạt động giải trí như xem phim, nhắn tin với bạn bè hoặc sử dụng các mạng xã hội như Facebook, TikTok mỗi ngày.\n\nThói quen không chuẩn bị bài trước khiến người học trở nên thụ động trong lớp. Khi giáo viên giảng những bài khó, những học sinh không chuẩn bị trước thường không hiểu bài và cảm thấy rất khó khăn để theo kịp chương trình. Điều này dẫn đến tâm lý chán nản, mệt mỏi và làm giảm kết quả học tập của các bạn.\n\nĐể khắc phục tình trạng này, mỗi học sinh cần thay đổi thói quen ngay từ bây giờ. Việc chuẩn bị bài kỹ lưỡng giúp các bạn tiếp thu kiến thức hiệu quả và tự tin hơn khi đến lớp. Khi đã đọc bài trước, các bạn sẽ cảm thấy hứng thú và chủ động hơn trong mọi giờ học.\n\nĐể làm được điều đó, các bạn cần biết cách sắp xếp thời gian một cách hợp lý. Bạn nên phân chia thời gian giữa việc học, giải trí và nghỉ ngơi sao cho cân bằng. Bên cạnh đó, việc tự học tại nhà là cách tốt nhất để rèn luyện tính tự giác. Nếu gặp bài khó, các bạn đừng ngần ngại hỏi thầy cô hoặc bạn bè xung quanh để hiểu bài rõ hơn.\n\nViệc học là một hành trình dài và không bao giờ thừa. Mỗi học sinh cần hiểu rõ hậu quả của việc không chuẩn bị bài mới để từ đó thay đổi bản thân. Hãy bắt đầu hành động ngay hôm nay để việc học tập trở nên nhẹ nhàng, hiệu quả và thú vị hơn. Chỉ cần bạn cố gắng và chăm chỉ mỗi ngày, chắc chắn bạn sẽ đạt được những thành tích tốt trong học tập và đạt được ước mơ của mình.",
+        "dictionary": {
+            "học sinh": "学生",
+            "thói quen": "习惯",
+            "bài": "课",
+            "lớp": "课堂",
+            "vấn đề": "问题",
+            "chất lượng": "质量",
+            "học tập": "学习",
+            "kết quả": "结果",
+            "tương lai": "未来",
+            "thực tế": "现实",
+            "sách vở": "书本",
+            "cặp": "书包",
+            "người": "人",
+            "thầy cô": "老师",
+            "bài tập": "作业",
+            "nhà": "家",
+            "tư duy": "思维",
+            "sự": "事",
+            "lười biếng": "懒惰",
+            "thời gian": "时间",
+            "hoạt động": "活动",
+            "giải trí": "娱乐",
+            "phim": "电影",
+            "tin": "信息",
+            "bạn bè": "朋友",
+            "mạng": "网络",
+            "xã hội": "社会",
+            "Facebook": "脸书",
+            "TikTok": "抖音",
+            "ngày": "天",
+            "giáo viên": "教师",
+            "chương trình": "课程",
+            "tâm lý": "心理",
+            "tình trạng": "状况",
+            "kiến thức": "知识",
+            "giờ": "小时",
+            "cách": "方法",
+            "tính": "性",
+            "tự giác": "自觉",
+            "hành trình": "旅程",
+            "hậu quả": "后果",
+            "bản thân": "自身",
+            "thành tích": "成绩",
+            "ước mơ": "梦想",
+            "chuẩn bị": "准备",
+            "giải quyết": "解决",
+            "cải thiện": "改善",
+            "giúp": "帮助",
+            "đạt": "达到",
+            "cho thấy": "显示",
+            "soạn": "整理",
+            "đọc": "阅读",
+            "làm": "做",
+            "kiểm tra": "检查",
+            "nghĩ": "认为",
+            "xuất phát": "出发",
+            "dành": "花费",
+            "xem": "看",
+            "nhắn": "发",
+            "sử dụng": "使用",
+            "khiến": "导致",
+            "trở nên": "变得",
+            "giảng": "讲解",
+            "hiểu": "理解",
+            "cảm thấy": "感到",
+            "theo kịp": "跟上",
+            "dẫn đến": "导致",
+            "giảm": "降低",
+            "khắc phục": "克服",
+            "thay đổi": "改变",
+            "tiếp thu": "吸收",
+            "sắp xếp": "安排",
+            "phân chia": "分配",
+            "nghỉ ngơi": "休息",
+            "cân bằng": "平衡",
+            "rèn luyện": "锻炼",
+            "gặp": "遇到",
+            "ngần ngại": "犹豫",
+            "hỏi": "问",
+            "thừa": "多余",
+            "bắt đầu": "开始",
+            "hành động": "行动",
+            "cố gắng": "努力",
+            "chăm chỉ": "勤奋",
+            "phổ biến": "普遍",
+            "tốt": "好",
+            "qua loa": "草率",
+            "thụ động": "被动",
+            "khó": "难",
+            "khó khăn": "困难",
+            "chán nản": "沮丧",
+            "mệt mỏi": "疲惫",
+            "kỹ lưỡng": "仔细",
+            "hiệu quả": "有效",
+            "tự tin": "自信",
+            "hứng thú": "感兴趣",
+            "chủ động": "主动",
+            "hợp lý": "合理",
+            "dài": "长",
+            "nhẹ nhàng": "轻松",
+            "thú vị": "有趣"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Nhiều học sinh có thói quen không chuẩn bị bài mới trước khi đến lớp.",
+                    "Việc chuẩn bị bài kỹ lưỡng giúp các bạn tiếp thu kiến thức hiệu quả.",
+                    "Tư duy này xuất phát từ sự lười biếng và thói quen dành quá nhiều thời gian.",
+                    "Thói quen không chuẩn bị bài khiến người học trở nên thụ động trong lớp học tập."
+                ],
+                "correct": "Thói quen không chuẩn bị bài khiến người học trở nên thụ động trong lớp học tập."
+            },
+            {
+                "question": "Theo bài đọc, lý do chính khiến nhiều học sinh không chuẩn bị bài là gì?",
+                "options": [
+                    "Do thầy cô không kiểm tra bài cũ thường xuyên.",
+                    "Do sự lười biếng và dành quá nhiều thời gian cho các hoạt động giải trí.",
+                    "Do học sinh phải làm quá nhiều bài tập về nhà.",
+                    "Do các bạn học sinh không có sách vở để soạn bài."
+                ],
+                "correct": "Do sự lười biếng và dành quá nhiều thời gian cho các hoạt động giải trí."
+            },
+            {
+                "question": "Hậu quả của việc không chuẩn bị bài trước khi đến lớp là gì?",
+                "options": [
+                    "Học sinh trở nên thụ động và khó theo kịp chương trình khi gặp bài khó.",
+                    "Học sinh có nhiều thời gian hơn để sử dụng mạng xã hội.",
+                    "Học sinh cảm thấy tự tin hơn khi giáo viên đặt câu hỏi.",
+                    "Học sinh sẽ đạt được kết quả tốt hơn trong tương lai."
+                ],
+                "correct": "Học sinh trở nên thụ động và khó theo kịp chương trình khi gặp bài khó."
+            },
+            {
+                "question": "Từ “thụ động” trong đoạn 3 có thể được hiểu là gì?",
+                "options": [
+                    "Trạng thái tích cực tham gia phát biểu trong giờ học.",
+                    "Trạng thái thiếu chủ động, chỉ chờ đợi sự truyền đạt từ giáo viên.",
+                    "Trạng thái chăm chỉ làm bài tập về nhà mỗi ngày.",
+                    "Trạng thái mệt mỏi do dành quá nhiều thời gian xem phim."
+                ],
+                "correct": "Trạng thái thiếu chủ động, chỉ chờ đợi sự truyền đạt từ giáo viên."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Bạn nên phân chia thời gian giữa việc học, giải trí và nghỉ ngơi.",
+                    "Mỗi học sinh cần hiểu rõ hậu quả của việc không chuẩn bị bài mới.",
+                    "Việc học là một hành trình dài và không bao giờ thừa cho mỗi người.",
+                    "Nếu gặp bài khó, các bạn đừng ngần ngại hỏi thầy cô hoặc bạn bè xung quanh để hiểu bài rõ hơn."
+                ],
+                "correct": "Việc học là một hành trình dài và không bao giờ thừa cho mỗi người."
+            },
+            {
+                "question": "Học sinh nên làm gì khi gặp những bài học khó?",
+                "options": [
+                    "Tiếp tục dành thời gian cho các hoạt động giải trí như xem phim.",
+                    "Hỏi thầy cô hoặc bạn bè xung quanh để hiểu bài rõ hơn.",
+                    "Chỉ cần làm bài tập về nhà là đủ để hiểu bài.",
+                    "Cảm thấy chán nản và không cần phải chuẩn bị bài nữa."
+                ],
+                "correct": "Hỏi thầy cô hoặc bạn bè xung quanh để hiểu bài rõ hơn."
+            },
+            {
+                "question": "Theo văn bản, việc tự học tại nhà giúp rèn luyện điều gì?",
+                "options": [
+                    "Tính tự giác của học sinh.",
+                    "Khả năng sử dụng mạng xã hội hiệu quả.",
+                    "Thói quen soạn sách vở vào cặp một cách qua loa.",
+                    "Tâm lý mệt mỏi và chán nản trong học tập."
+                ],
+                "correct": "Tính tự giác của học sinh."
+            },
+            {
+                "question": "Từ “hành trình” trong câu “Việc học là một hành trình dài” có thể được thay thế bằng từ nào dưới đây?",
+                "options": [
+                    "Cuộc thi",
+                    "Quá trình",
+                    "Kết quả",
+                    "Thói quen"
+                ],
+                "correct": "Quá trình"
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Hãy bắt đầu hành động ngay hôm nay để việc học tập trở nên nhẹ nhàng hơn.",
+                    "Nhiều bạn học sinh thường nghĩ rằng chỉ cần làm bài tập về nhà là đủ.",
+                    "Để làm được điều đó, các bạn cần biết cách sắp xếp thời gian một cách hợp lý.",
+                    "Sự lười biếng là thói quen dành quá nhiều thời gian cho các hoạt động giải trí."
+                ],
+                "correct": "Sự lười biếng là thói quen dành quá nhiều thời gian cho các hoạt động giải trí."
+            },
+            {
+                "question": "Theo bài đọc, thái độ của học sinh khi chuẩn bị bài kỹ lưỡng là gì?",
+                "options": [
+                    "Cảm thấy hứng thú và chủ động hơn trong mọi giờ học.",
+                    "Cảm thấy mệt mỏi và muốn dành thời gian cho mạng xã hội.",
+                    "Cảm thấy lo lắng vì sợ thầy cô kiểm tra bài.",
+                    "Cảm thấy việc học là một hành trình không bao giờ thừa."
+                ],
+                "correct": "Cảm thấy hứng thú và chủ động hơn trong mọi giờ học."
+            },
+            {
+                "question": "Đâu là giải pháp được đề xuất để cải thiện chất lượng học tập?",
+                "options": [
+                    "Dành nhiều thời gian hơn cho việc xem phim và nhắn tin với bạn bè.",
+                    "Chỉ soạn sách vở vào cặp mà không cần đọc trước bài mới.",
+                    "Phân chia thời gian giữa việc học, giải trí và nghỉ ngơi sao cho cân bằng.",
+                    "Làm bài tập một cách qua loa để đối phó với thầy cô."
+                ],
+                "correct": "Phân chia thời gian giữa việc học, giải trí và nghỉ ngơi sao cho cân bằng."
+            },
+            {
+                "question": "Từ “đó” trong câu “Để làm được điều đó, các bạn cần biết cách sắp xếp thời gian” quy chiếu đến nội dung nào?",
+                "options": [
+                    "Việc chuẩn bị bài kỹ lưỡng để tiếp thu kiến thức hiệu quả.",
+                    "Việc sử dụng mạng xã hội như Facebook, TikTok mỗi ngày.",
+                    "Việc làm bài tập về nhà một cách qua loa.",
+                    "Việc cảm thấy chán nản và mệt mỏi trong lớp học."
+                ],
+                "correct": "Việc chuẩn bị bài kỹ lưỡng để tiếp thu kiến thức hiệu quả."
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
