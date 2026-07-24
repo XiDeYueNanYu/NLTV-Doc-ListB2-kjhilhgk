@@ -2790,5 +2790,244 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Văn hóa ăn sáng ở Việt Nam",
+        "text": "Việt Nam từ lâu đã được xem là thiên đường của các món ăn sáng. Chỉ cần chi từ mười lăm đến ba mươi nghìn đồng, bạn đã có một bữa ăn nóng hổi, đủ chất và rất ngon miệng. Trên các con phố, chỉ cần bước ra khỏi nhà là bạn có thể dễ dàng tìm thấy nhiều lựa chọn như phở, bún bò, hủ tiếu, bánh mì, xôi hay bánh cuốn. Điều này khiến nhiều bạn bè quốc tế khi đến Việt Nam cảm thấy vô cùng ngạc nhiên và thú vị.\n\nMỗi thời điểm khác nhau, thị trường ăn sáng lại có những món mới lạ thu hút khách hàng. Ví dụ, gần đây có món bún nước tương rất được nhân viên văn phòng yêu thích vì đơn giản nhưng lạ miệng. Trước đó, trào lưu ăn uống lành mạnh cũng mang đến nhiều món như khoai lang luộc, trứng luộc hay sữa hạt. Sự đa dạng này giúp mọi người có thể thay đổi món ăn mỗi ngày mà không thấy chán.\n\nCó nhiều ý kiến khác nhau về việc nên ăn sáng ở ngoài hay tự nấu tại nhà. Một số người cho rằng tự nấu sẽ tiết kiệm và đảm bảo vệ sinh hơn. Tuy nhiên, nếu tính toán kỹ về tiền điện, nước, gas, thời gian đi chợ và công sức dọn dẹp, việc tự nấu chưa chắc đã rẻ hơn ăn ngoài. Ngoài ra, việc chuẩn bị quá nhiều nguyên liệu tại nhà đôi khi dẫn đến lãng phí nếu không dùng hết. Với những người đi làm bận rộn hay sinh viên, việc dậy sớm nấu ăn mỗi ngày là khá vất vả. Ăn sáng ở quán giúp họ tiết kiệm thời gian, đồng thời tránh cảm giác nặng bụng để bắt đầu ngày làm việc hiệu quả.\n\nTất nhiên, nếu gia đình có trẻ nhỏ, người già hoặc những người đang thực hiện chế độ ăn kiêng nghiêm ngặt thì việc tự chuẩn bị bữa sáng tại nhà là lựa chọn rất hợp lý. Họ có thể kiểm soát hoàn toàn lượng dinh dưỡng và vệ sinh thực phẩm. Nhưng đối với đa số mọi người trong nhịp sống hiện đại, việc tận hưởng những món ngon đa dạng ở các hàng quán gần nhà vẫn là một nét văn hóa đặc trưng và tiện lợi. Tóm lại, tùy vào điều kiện và nhu cầu của mỗi người mà chúng ta có thể chọn ăn sáng ở quán hoặc nấu tại nhà để phù hợp với cuộc sống của mình.",
+        "dictionary": {
+            "Việt Nam": "越南",
+            "thiên đường": "天堂",
+            "món ăn": "食物",
+            "sáng": "早",
+            "đồng": "盾",
+            "bữa ăn": "餐",
+            "chất": "营养",
+            "ngon miệng": "可口",
+            "phố": "街道",
+            "nhà": "家",
+            "lựa chọn": "选择",
+            "phở": "河粉",
+            "bún bò": "牛肉米粉",
+            "hủ tiếu": "粿条",
+            "bánh mì": "面包",
+            "xôi": "糯米饭",
+            "bánh cuốn": "卷粉",
+            "bạn bè": "朋友",
+            "quốc tế": "国际",
+            "thời điểm": "时间",
+            "thị trường": "市场",
+            "khách hàng": "顾客",
+            "nhân viên": "职员",
+            "văn phòng": "办公室",
+            "trào lưu": "潮流",
+            "khoai lang": "红薯",
+            "trứng": "鸡蛋",
+            "sữa hạt": "坚果奶",
+            "sự đa dạng": "多样性",
+            "ý kiến": "意见",
+            "tiền": "钱",
+            "điện": "电",
+            "nước": "水",
+            "gas": "煤气",
+            "thời gian": "时间",
+            "chợ": "市场",
+            "công sức": "精力",
+            "nguyên liệu": "原料",
+            "sinh viên": "学生",
+            "quán": "店",
+            "cảm giác": "感觉",
+            "bụng": "肚子",
+            "công việc": "工作",
+            "gia đình": "家庭",
+            "trẻ nhỏ": "小孩",
+            "người già": "老人",
+            "chế độ": "制度",
+            "ăn kiêng": "节食",
+            "dinh dưỡng": "营养",
+            "thực phẩm": "食品",
+            "nhịp sống": "生活节奏",
+            "văn hóa": "文化",
+            "điều kiện": "条件",
+            "nhu cầu": "需求",
+            "cuộc sống": "生活",
+            "xem": "看",
+            "chi": "花费",
+            "bước": "走",
+            "tìm": "找",
+            "khiến": "使",
+            "cảm thấy": "感到",
+            "thu hút": "吸引",
+            "yêu thích": "喜爱",
+            "mang": "带来",
+            "luộc": "煮",
+            "giúp": "帮助",
+            "thay đổi": "改变",
+            "chán": "厌倦",
+            "nấu": "做饭",
+            "tiết kiệm": "节省",
+            "đảm bảo": "保证",
+            "vệ sinh": "卫生",
+            "tính toán": "计算",
+            "dọn dẹp": "打扫",
+            "dẫn": "导致",
+            "dùng": "使用",
+            "dậy": "起床",
+            "tránh": "避免",
+            "bắt đầu": "开始",
+            "thực hiện": "执行",
+            "chuẩn bị": "准备",
+            "kiểm soát": "控制",
+            "tận hưởng": "享受",
+            "chọn": "选择",
+            "phù hợp": "适合",
+            "nóng hổi": "热腾腾",
+            "đủ": "足够",
+            "ngon": "好吃",
+            "dễ dàng": "容易",
+            "nhiều": "多",
+            "ngạc nhiên": "惊讶",
+            "thú vị": "有趣",
+            "khác nhau": "不同",
+            "mới lạ": "新奇",
+            "đơn giản": "简单",
+            "lạ miệng": "口味新奇",
+            "lành mạnh": "健康",
+            "rẻ": "便宜",
+            "kỹ": "仔细",
+            "lãng phí": "浪费",
+            "bận rộn": "忙碌",
+            "vất vả": "辛苦",
+            "nặng": "沉重",
+            "hiệu quả": "有效",
+            "nghiêm ngặt": "严格",
+            "hợp lý": "合理",
+            "hiện đại": "现代",
+            "đặc trưng": "独特",
+            "tiện lợi": "方便"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Việt Nam từ lâu đã được xem là thiên đường của các món ăn sáng.",
+                    "Việc tự nấu chưa chắc đã rẻ hơn ăn ngoài vì tính toán kỹ tiền điện.",
+                    "Sự đa dạng này giúp mọi người có thể thay đổi món ăn mỗi ngày mà không thấy chán.",
+                    "Ăn sáng ở quán giúp họ tiết kiệm thời gian, đồng thời tránh cảm giác nặng bụng."
+                ],
+                "correct": "Việc tự nấu chưa chắc đã rẻ hơn ăn ngoài vì tính toán kỹ tiền điện."
+            },
+            {
+                "question": "Theo bài đọc, mức giá trung bình cho một bữa ăn sáng tại Việt Nam là bao nhiêu?",
+                "options": [
+                    "Từ mười lăm đến ba mươi nghìn đồng",
+                    "Dưới mười lăm nghìn đồng",
+                    "Trên ba mươi nghìn đồng",
+                    "Từ ba mươi đến năm mươi nghìn đồng"
+                ],
+                "correct": "Từ mười lăm đến ba mươi nghìn đồng"
+            },
+            {
+                "question": "Món ăn nào được nhắc đến như một ví dụ về trào lưu ăn uống lành mạnh?",
+                "options": [
+                    "Bún nước tương",
+                    "Bánh cuốn",
+                    "Khoai lang luộc",
+                    "Hủ tiếu"
+                ],
+                "correct": "Khoai lang luộc"
+            },
+            {
+                "question": "Tại sao món bún nước tương lại được nhân viên văn phòng yêu thích?",
+                "options": [
+                    "Vì giá thành rất rẻ so với phở và bún bò",
+                    "Vì đơn giản nhưng lạ miệng",
+                    "Vì giúp tiết kiệm thời gian nấu nướng tại nhà",
+                    "Vì đảm bảo vệ sinh thực phẩm hơn các món khác"
+                ],
+                "correct": "Vì đơn giản nhưng lạ miệng"
+            },
+            {
+                "question": "Theo bài đọc, đối tượng nào được khuyến khích nên tự chuẩn bị bữa sáng tại nhà?",
+                "options": [
+                    "Nhân viên văn phòng bận rộn",
+                    "Sinh viên đại học",
+                    "Gia đình có trẻ nhỏ hoặc người già",
+                    "Những người thích ăn bún nước tương"
+                ],
+                "correct": "Gia đình có trẻ nhỏ hoặc người già"
+            },
+            {
+                "question": "Việc tự nấu ăn tại nhà có thể dẫn đến lãng phí trong trường hợp nào?",
+                "options": [
+                    "Khi không sử dụng hết các nguyên liệu đã chuẩn bị",
+                    "Khi tốn quá nhiều tiền điện, nước và gas",
+                    "Khi phải dậy sớm để chuẩn bị bữa sáng",
+                    "Khi không kiểm soát được lượng dinh dưỡng"
+                ],
+                "correct": "Khi không sử dụng hết các nguyên liệu đã chuẩn bị"
+            },
+            {
+                "question": "Từ “họ” trong câu “Họ có thể kiểm soát hoàn toàn lượng dinh dưỡng và vệ sinh thực phẩm” dùng để chỉ ai?",
+                "options": [
+                    "Những người đi làm bận rộn",
+                    "Những người đang thực hiện chế độ ăn kiêng nghiêm ngặt",
+                    "Những người bán hàng ăn sáng",
+                    "Bạn bè quốc tế khi đến Việt Nam"
+                ],
+                "correct": "Những người đang thực hiện chế độ ăn kiêng nghiêm ngặt"
+            },
+            {
+                "question": "Từ “tiện lợi” trong đoạn cuối có thể được thay thế bằng từ nào dưới đây?",
+                "options": [
+                    "Đắt đỏ",
+                    "Dễ dàng",
+                    "Phức tạp",
+                    "Lãng phí"
+                ],
+                "correct": "Dễ dàng"
+            },
+            {
+                "question": "Theo bài đọc, lý do chính khiến việc tự nấu ăn tại nhà chưa chắc đã rẻ hơn ăn ngoài là gì?",
+                "options": [
+                    "Giá nguyên liệu thực phẩm ngày càng tăng cao",
+                    "Chi phí điện, nước, gas và công sức dọn dẹp",
+                    "Các quán ăn thường có chương trình khuyến mãi",
+                    "Người nấu ăn không biết cách chọn thực phẩm"
+                ],
+                "correct": "Chi phí điện, nước, gas và công sức dọn dẹp"
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Việc chuẩn bị quá nhiều nguyên liệu đôi khi dẫn đến lãng phí.",
+                    "Nhiều bạn bè quốc tế cảm thấy ngạc nhiên khi đến Việt Nam.",
+                    "Tùy vào điều kiện mà chúng ta có thể chọn ăn sáng ở quán.",
+                    "Vì ăn sáng ở quán giúp tiết kiệm thời gian nên họ cảm thấy vui."
+                ],
+                "correct": "Vì ăn sáng ở quán giúp tiết kiệm thời gian nên họ cảm thấy vui."
+            },
+            {
+                "question": "Trạng thái của các món ăn sáng tại Việt Nam được mô tả như thế nào trong bài?",
+                "options": [
+                    "Luôn giữ nguyên thực đơn qua nhiều năm",
+                    "Đa dạng và có những món mới lạ theo thời gian",
+                    "Chỉ tập trung vào các món truyền thống như phở",
+                    "Khó tìm kiếm trên các con phố"
+                ],
+                "correct": "Đa dạng và có những món mới lạ theo thời gian"
+            },
+            {
+                "question": "Cụm từ “nhịp sống hiện đại” trong bài đọc ám chỉ điều gì?",
+                "options": [
+                    "Thói quen dậy sớm nấu ăn mỗi ngày của mọi người",
+                    "Lối sống bận rộn, cần sự nhanh chóng và tiện lợi",
+                    "Việc mọi người thường xuyên ăn kiêng nghiêm ngặt",
+                    "Sự thay đổi của các món ăn từ truyền thống sang hiện đại"
+                ],
+                "correct": "Lối sống bận rộn, cần sự nhanh chóng và tiện lợi"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
